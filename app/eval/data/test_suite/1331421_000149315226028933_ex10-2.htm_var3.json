@@ -1,0 +1,13 @@
+{
+  "test_id": "1331421_000149315226028933_ex10-2.htm_var3",
+  "source_file": "1331421_000149315226028933_ex10-2.htm.txt",
+  "injected_traps": [
+    "RULE-01",
+    "RULE-05"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+    "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap."
+  ]
+}

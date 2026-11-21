@@ -1,0 +1,15 @@
+{
+  "test_id": "1392694_000149315226002257_ex10-1.htm_var1",
+  "source_file": "1392694_000149315226002257_ex10-1.htm.txt",
+  "injected_traps": [
+    "RULE-03",
+    "RULE-04",
+    "RULE-05"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+    "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+    "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window."
+  ]
+}

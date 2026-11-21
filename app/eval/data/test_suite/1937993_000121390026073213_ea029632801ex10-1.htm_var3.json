@@ -1,0 +1,19 @@
+{
+  "test_id": "1937993_000121390026073213_ea029632801ex10-1.htm_var3",
+  "source_file": "1937993_000121390026073213_ea029632801ex10-1.htm.txt",
+  "injected_traps": [
+    "RULE-02",
+    "RULE-03",
+    "RULE-05"
+  ],
+  "cured_false_positives": [
+    "RULE-04"
+  ],
+  "notes": [
+    "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+    "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+    "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+    "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+    "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+  ]
+}

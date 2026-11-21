@@ -1,0 +1,12 @@
+{
+  "test_id": "1937993_000121390026073213_ea029632801ex10-1.htm_var1",
+  "source_file": "1937993_000121390026073213_ea029632801ex10-1.htm.txt",
+  "injected_traps": [
+    "RULE-04"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+    "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+  ]
+}

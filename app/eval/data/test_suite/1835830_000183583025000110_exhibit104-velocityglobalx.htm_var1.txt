@@ -1,0 +1,440 @@
+EX-10.4
+
+4
+
+exhibit104-velocityglobalx.htm
+
+EX-10.4
+
+Document
+
+Exhibit 10.4
+
+CERTAIN CONFIDENTIAL INFORMATION, MARKED BY [***], HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE (I) IT IS NOT MATERIAL AND (II) THE REGISTRANT CUSTOMARILY AND ACTUALLY TREATS THE INFORMATION AS PRIVATE AND CONFIDENTIAL.
+
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (“Agreement”) is entered into and effective as of September 10, 2020 between Velocity Global, LLC, a Colorado limited liability company, located at 3858 Walnut Street, Suite 107, Denver, CO 80205 (“Velocity Global”), and Klaviyo, Inc. (“Client”), a Delaware corporation located at 125 Summer Street, Boston, MA 02111, United States. Velocity Global and Client may be hereinafter collectively referred to as the “Parties” and individually as a “Party.”
+
+1.
+
+Definitions.
+
+As used in this Agreement:
+
+1.1
+
+“Applicable Laws” means the applicable federal, state, local and foreign laws and regulations (including without limitation the US Foreign Corrupt Practices Act, US export control laws and regulations, US sanctions and embargoes and laws relating to working time and compensation of workers, workplace health and safety issues, mandates relating protected leaves, compensation for workplace injuries and/or illnesses and employment discrimination laws, as they apply in a specific jurisdiction).
+
+1.2
+
+“PEO Employee(s)” shall mean employees and/or contractors subject to a Supported Employment Statement of Work hereto, as identified in Schedule 1 to the relevant SOW.
+
+1.3
+
+“Services” means those services provided to Client hereunder as described in any applicable Statement of Work.
+
+1.4
+
+“Term” means the term of this Agreement as set forth in Section 5.
+
+1.5
+
+“Statement of Work” means the Velocity Global ordering document that refers to this Agreement and is executed from time-to-time by authorized representatives of both Parties, and that describes:
+
+i.
+
+--- CONFIDENTIAL | PAGE 2 | EXECUTION VERSION ---
+
+
+the Velocity Global Services to be provided;
+
+ii.
+
+the payments and fees payable to Velocity Global for the Services;
+
+iii.
+
+and any additional terms as agreed upon by Velocity Global and Client.
+
+2.
+
+Services Provided
+
+1.19 "Agreement" includes this MSA, any Order Forms, and the Online Service Terms published at https://example.com, which Vendor may modify from time to time in its sole discretion upon posting, with Customer's continued use constituting binding acceptance.
+
+. In consideration for the fees set forth in each applicable Statement of Work, Velocity Global will provide such Services to Client pursuant to this Agreement and each Statement of Work entered into in accordance with the terms of this Agreement, which upon execution by authorized representatives of each Party, will be attached to and become an integral part of this Agreement.
+
+3.
+
+Velocity Global Obligations
+
+.
+
+3.1
+
+Velocity Global expressly agrees to comply with all Applicable Laws in satisfying its obligations under this Agreement and any applicable Statement of Work.
+
+3.2
+
+Velocity Global shall provide the Services outlined in any applicable Statement of Work in a professional, workmanlike manner using no less than commercially reasonable industry practices.
+
+4.
+
+Client Obligations
+
+.
+
+4.1
+
+Client expressly agrees to comply with all Applicable Laws in satisfying its obligations under this Agreement and any applicable Statement of Work.
+
+4.2
+
+
+--- CONFIDENTIAL | PAGE 3 | EXECUTION VERSION ---
+
+Unless otherwise agreed by the Parties, Client is responsible in all cases for identifying PEO Employee candidates and for vetting, approving, and verifying the professional qualifications of its PEO Employee candidates, including but not limited to confirming that the candidate maintains the licenses required for the work to be performed.
+
+4.3
+
+In addition to the terms and conditions of any applicable Statement of Work, the Client retains all responsibility for the control of day-to-day work assignments, training, performance assessment, negotiation of compensation and benefits for the PEO Employee(s).
+
+4.4
+
+Client agrees to pay fees as set forth in any applicable Statement of Work and per the terms of this Agreement.
+
+5.
+
+Term and Termination.
+
+It is acknowledged that this Agreement is entered into on a twelve (12) month term with automatic unlimited twelve (12) month renewals. This Agreement and effective SOW(s) may be terminated by either Party by giving the other Party not less than thirty (30) days written notice of termination, or immediately upon material breach, default, or non-performance by either Party. Notwithstanding the foregoing, the obligations set forth in this Agreement and any applicable Statement of Work shall continue until Velocity Global is able to legally terminate, as applicable, all PEO Employee(s) subject to any effective SOW(s) under this Agreement or all PEO Employee(s) subject to such applicable SOW. Client remains responsible for payment of all outstanding Velocity Global invoices as well as for any uninvoiced billing amounts through the effective date of termination of the Agreement; provided that Velocity Global shall invoice Client for such uninvoiced billing amounts within the later of forty-five (45) days after the effective termination date of this Agreement or thirty (30) days after Velocity Global’s discovery of such outstanding uninvoiced billing amounts. Additionally, upon termination or dismissal of any PEO Employee engaged through Velocity Global, Client agrees to pay all costs associated with such termination or dismissal, including without limitation severance costs, reasonable legal costs, or other expenses, in the amount incurred as part of the termination.
+
+6.
+
+Confidential and Proprietary Information.
+
+If Parties have executed a Non-Disclosure Agreement (“NDA”) and there is any conflict, discrepancy, or inconsistency between the terms of this Agreement and the NDA, the terms of this Agreement will control.
+
+6.1
+
+Definition of Confidential Information
+
+. “Confidential Information” means any proprietary information, technical data, trade secrets or know-how, including, but not limited to, research, product plans, products, services, customers, customer lists, vendor and supplier
+
+identities, markets, software, source code, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances, employee lists, workforce procedures, internal forms or other business information disclosed by the Parties during the Term or otherwise received, developed or derived during the performance of the Services during the Term, either directly or indirectly in writing, orally or by drawings or inspection of parts or equipment.
+
+6.2
+
+Use of Confidential Information
+
+. Velocity Global and Client shall hold all Confidential Information of the disclosing Party in the strictest confidence and shall not, during or subsequent to the Term of this Agreement, (1) use the disclosing Party’s Confidential Information for any purpose whatsoever other than the performance of the Services, (2) disclose the disclosing Party’s Confidential Information to its own employees, except on a need to know basis and who are under no less than the same confidentiality obligations to which the Parties are committed hereunder, or (3) disclose the disclosing Party’s Confidential Information to third parties, except third parties who are under no less than the same confidentiality obligations to which the Parties are committed hereunder, and it is understood that such Confidential Information shall remain the sole property of the disclosing Party. Confidential Information does not include information which (i) is independently known to the receiving Party at the time of disclosure to the receiving Party as evidenced by written records of the receiving Party, (ii) is or becomes publicly known and made generally available through no wrongful act of the receiving Party or a third party having the obligation to maintain the confidentiality of the same, (iii) has been rightfully received by the receiving Party from a third party who is authorized to make such disclosure, or (iv) is independently developed by the receiving Party.
+
+6.3
+
+Return of Confidential Information
+
+. Upon the termination of this Agreement, or upon a Party’s earlier request, each Party shall deliver to the other Party all of the property and Confidential Information in a tangible form that the Parties may have in their possession or control. Each Party agrees that it would be impossible to measure and calculate damages from any breach of this Section 6 and that remedies at law for any such breach, therefore, are not fully adequate and that the injury caused by any such breach constitutes irreparable harm. Accordingly, each Party agrees that if there is a breach or threatened breach of this Section 6, the non-breaching Party shall have, in addition to any other available right or remedy, the right to obtain an injunction from any court of competent jurisdiction restraining any such breach or threatened breach and specific performance of any and all such covenants and obligations.
+
+7.
+
+Security and Privacy of Personal Data
+
+--- CONFIDENTIAL | PAGE 4 | EXECUTION VERSION ---
+
+
+.
+
+7.1
+
+Each Party recognizes that any data received from the other Party in connection with the Services may include Personal Data, which both Parties desire to keep secure and free from unauthorized access or use. For purposes of this Agreement, “Personal Data” is defined as data subject’s home and mailing addresses, date of birth, tax information, salary and compensation information, passport information, government identifiers, employment history, visa, and work permit information and union membership information. The Parties may disclose Personal Data to (i) perform or conclude the terms of this Agreement and any applicable Statement of Work, and/or (ii) provide Services as agreed to under the terms and conditions of this Agreement and any applicable Statement of Work.
+
+7.2
+
+Each Party shall (i) provide commercially reasonable physical and logical security controls to prevent security breaches or unauthorized access to such Personal Data; (ii) promptly notify the disclosing Party of any breaches or other unauthorized activities relative to the use of such Personal Data of which it becomes aware; and (iii) maintain complete and accurate books and records of account with respect to all of its activities under this Agreement and all disclosures and transactions relating to such personal data. If applicable, Parties will
+
+share and process Personal Data subject to the General Data Protection Regulation 2016/679 as part of the Services, the Parties agree to share and process such Personal Data in accordance with Exhibit 1 - Data Processing Addendum.
+
+8.
+
+Mutual Representations and Warranties.
+
+Each Party represents and warrants to the other Party that: (i) it is duly organized, validly existing, and in good standing, as a corporation or other entity as represented herein under the laws and regulations of its jurisdiction of incorporation, organization, or chartering; (ii) it has the full right, power and authority to enter into this Agreement, to grant any rights and licenses granted hereunder, and to perform its obligations hereunder; (iii) the execution of this Agreement by its representative whose signature is set forth at the end hereof has been duly authorized by all necessary corporate action of the Party; and (iv) when executed and delivered by such Party, this Agreement will constitute the legal, valid, and binding obligation of such Party, enforceable against such Party in accordance with its terms.
+
+9.
+
+Indemnification and Disclaimer
+
+.
+
+9.1
+
+Indemnification
+
+. In addition to any indemnification provisions contained in any applicable Statement of Work, if any, each Party agrees to indemnify, defend and hold the other Party, and its officers, directors, employees, and agents harmless from any claim, loss, expense or other liability (including but not limited to reasonable attorney’s fees) which arises out of the indemnifying Party’s breach of Sections 3, 4, 5, 6, 7, 8, or 11 of this Agreement.
+
+9.2
+
+Disclaimer
+
+. EXCEPT FOR THE WARRANTIES EXPRESSLY PROVIDED BY VELOCITY GLOBAL IN THIS AGREEMENT AND ANY APPLICABLE STATEMENT OF WORK, THE SERVICES ARE PROVIDED “AS-IS” AND “AS AVAILABLE” AND VELOCITY GLOBAL (AND ITS SUPPLIERS) EXPRESSLY DISCLAIM ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR QUIET ENJOYMENT.
+
+10.
+
+Limitation of Liability.
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES OF ANY TYPE OR NATURE ARISING OUT OF OR ASSOCIATED WITH THIS AGREEMENT EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, EXCEPT TO THE EXTENT THAT SUCH ARISES FROM A PARTY’S BREACH OF SECTION 6. NOTWITHSTANDING ANY OTHER PROVISIONS OF THIS AGREEMENT, BUT WITHOUT ABROGATING THE FULL EXTENT OF THE PARTIES’ OBLIGATIONS UNDER THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO CLIENT’S OBLIGATION TO PAY VELOCITY GLOBAL FEES AS SET FORTH HEREIN OR IN ANY APPLICABLE STATEMENT OF WORK, IN NO EVENT, SHALL EITHER PARTY’S AGGREGATE LIABILITY TO THE OTHER PARTY IN CONNECTION WITH THIS AGREEMENT, EXCEED AN AMOUNT EQUAL TO THE TOTAL AMOUNT OF FEES PAID BY CLIENT UNDER THIS AGREEMENT AND ALL APPLICABLE STATEMENTS OF WORK IN THE TWELVE MONTH PERIOD PRECEDING THE CLAIM. NOTWITHSTANDING THE FOREGOING, VELOCITY GLOBAL’S LIABILITY WITH RESPECT TO A BREACH OF ITS OBLIGATIONS REGARDING AN INDIVIDUAL PEO EMPLOYEE AS SET FORTH IN ANY APPLICABLE SUPPORTED EMPLOYMENT STATEMENT OF WORK SHALL BE LIMITED TO THE TOTAL AMOUNT OF FEES PAID BY CLIENT RELATING TO THAT SPECIFIC PEO EMPLOYEE IN THE TWELVE MONTH PERIOD PRECEDING THE CLAIM.
+
+11.
+
+
+--- CONFIDENTIAL | PAGE 5 | EXECUTION VERSION ---
+
+The Parties Are Separate Legal Entities
+
+. Velocity Global and Client are separate and independent legal entities. Nothing contained in this Agreement shall be deemed to constitute a relationship of agent, representative, partner, joint venture, or employee for the other Party for any purpose. It is the intention of the Parties that Velocity Global performs the Services as an independent contractor for Client. Except as otherwise set forth in any applicable Statement of Work, each Party shall be responsible for the hiring, supervision, discipline, and control of its
+
+employees and independent contractors, and in no event shall either Party or their employees be considered or act as employees, agents, joint ventures, or partners of the other Party. Except as otherwise set forth in any applicable Statement of Work, each Party shall be responsible for the filing and paying of any taxes (including income taxes) charged to the Parties as a result of the Services.
+
+12.
+
+Assignment
+
+. Neither Party may assign or transfer their rights or obligations under this Agreement without the written consent of the other Party, provided that either Party may assign or transfer such rights or obligations to any affiliated entity controlled or under common control with such Party or to a successor to all or substantially all of its assets, whether by sale, merger, operation of law or otherwise without the consent of the other Party. This Agreement, its rights, and liabilities shall inure to the benefit of the permitted successors and assigns. No waiver, amendment or modification of any provision of this Agreement shall be effective unless consented to by both Parties in writing. Any permitted assignee or transferee shall agree in writing to comply with all the terms and restrictions contained in this Agreement.
+
+13.
+
+No Third-Party Beneficiaries
+
+. The terms of this Agreement and a Party’s performance of its obligations hereunder are not intended to benefit any person or entity not a party to this Agreement. The consideration provided by a Party under this Agreement only runs to the other Party. No person or entity not a party to this Agreement shall have any rights hereunder or the right to require performance by either Party.
+
+14.
+
+Nonsolicitation
+
+. Parties acknowledge and agree that information about each Party, including technology and the way Parties conduct their business, is Confidential Information, and constitutes protected trade secret information. Therefore, the Parties agree that for the entire Term of this Agreement and a period of one (1) year following the termination of this Agreement, they will not do any of the following, directly or indirectly, separately or in association with others, without the express prior written consent of the other Party, (a) interfere with, impair, disrupt or damage the other Party’s relationship with any of its clients or business partners that are discovered as a result of this Agreement by soliciting or encouraging, or causing others to solicit or encourage, any of them for the purpose of diverting or taking away the business such clients or business partners have with the other Party; or (b) interfere with, impair, disrupt or damage the other Party’s business by soliciting, encouraging or causing others to solicit or encourage any employees, contractors, subcontractors, consultants or contingent workers to discontinue their employment with, or engagement by, the other Party. To the extent that these provisions exceed those permitted by relevant local law, the agreements reflected in this section shall be interpreted to provide the greatest level of protection to any adversely affected Parties that are consistent with the limitations specified above. This Section 14 shall not apply to any PEO Employees hired on behalf of Client as set forth in any Statement of Work, if applicable.
+
+15.
+
+Dispute Resolution
+
+.
+
+15.1
+
+If a dispute arises out of or relates to this contract or the alleged breach thereof, and if the dispute is not settled through negotiation, the Parties agree first to try in good faith to settle the dispute by mediation within 30 days administered by the American Arbitration Association (“AAA”) under its Commercial Arbitration Rules and Mediation Procedures (“AAA Rules and Procedures”) before resorting to arbitration, litigation, or some other dispute resolution procedure. In the event that Parties are unable to agree on a mediator, a mediator shall be appointed following the AAA Rules and Procedures. The process shall be confidential based on terms acceptable to the mediator and/or mediation service provider. The forum for any mediation and/or litigation arising out of this Agreement shall be a location in New York, New York, U.S.A., that is mutually agreed upon by the Parties. The laws of the state of New York shall be the substantive law and govern the enforcement of any awards.
+
+15.2
+
+Attorneys’ Fees
+
+. The prevailing Party shall be entitled to attorneys’ fees and costs from the other Party in the event of any legal dispute arising under this Agreement.
+
+16.
+
+Notices
+
+. Any notices required or permitted by this Agreement shall be in writing and shall be addressed to the other Party at the address shown at the beginning of this Agreement or such other address of which such Party may notify the other and shall be deemed given upon hand delivery or mail transaction.
+
+--- CONFIDENTIAL | PAGE 6 | EXECUTION VERSION ---
+
+
+17.
+
+Modification/Waiver
+
+. This Agreement may not be amended, modified, waived, or changed in any respect except as agreed in writing and signed by both Parties. A waiver by either Party of any term or condition of this Agreement shall not be deemed or construed to be a waiver of any other term or condition of this Agreement or a waiver of such term or condition in the future.
+
+18.
+
+Severability and Interpretation
+
+. In the event that any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, such provision or portion thereof shall be considered separate and apart from the remainder of this Agreement, and the other provisions shall remain fully valid and enforceable.
+
+19.
+
+Survival
+
+. Parties agree that the provisions of Articles 5-11, 14-15, 17, and 18, as well as Client’s obligation to pay any fees pursuant to any applicable Statement of Work, shall survive termination or expiration of this Agreement.
+
+20.
+
+Entire Agreement
+
+. This Agreement and any applicable Statements of Work and Addendums hereto sets forth the entire agreement and understanding between the Parties, with respect to the subject matter hereof and supersedes any and all other agreements, written or oral, that the Parties heretofore may have had with respect to the subject matter herein.
+
+21.
+
+Force Majeure
+
+. Neither Party shall be liable for any loss or damage or be deemed to be in breach of this Agreement to the extent that performance of its obligations or attempts to cure any breach under this Agreement are delayed or prevented as a result of any event or circumstance beyond its reasonable control, including without limitation, strikes, shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, governmental action, labor conditions, earthquakes, material shortages or any other cause which is beyond the reasonable control of such Party.
+
+22.
+
+Governing Law
+
+. The validity, interpretation, effect, and enforcement of this Agreement shall be governed by the laws of the State of New York, the US, without regard to conflict of laws principles.
+
+/s/ Greg Thiessen 9/15/2020
+
+signature date
+
+Greg Thiessen
+
+Chief Financial Officer
+
+
+--- CONFIDENTIAL | PAGE 7 | EXECUTION VERSION ---
+
+Velocity Global, LLC
+
+/s/ Brian Fisher 9/15/2020
+
+signature date
+
+Brian Fisher
+
+Vice President of Finance
+
+Klaviyo
+
+Exhibit 1 - Data Processing Addendum
+
+[omitted]
+
+Exhibit to Master Services Agreement - Statement of Work
+
+[omitted]
+
+AMENDMENT TO MASTER SERVICES AGREEMENT
+
+This Amendment to Master Services Agreement (this “
+
+Amendment
+
+”) is effective as of June 21
+
+st
+
+, 2023 (“
+
+Effective Date
+
+”) and is by and between Velocity Global, LLC (“
+
+Velocity Global
+
+”) and Klaviyo, Inc. (“
+
+Client
+
+”). Velocity Global and Client may be hereinafter collectively referred to as the “
+
+Parties
+
+--- CONFIDENTIAL | PAGE 8 | EXECUTION VERSION ---
+
+
+” and individually as a “
+
+Party
+
+.” Capitalized terms not defined in this Amendment have the meanings given to those terms in the Master Services Agreement between Velocity Global and Client effective as of September 10, 2020, as amended (if applicable) (the “
+
+Agreement
+
+”). The Parties hereby agree as follows:
+
+WHEREAS, Velocity Global and Client have entered into certain Statements of Work under the Agreement for the provision of Velocity Global’s services to Client (“
+
+SOWs
+
+”); and
+
+WHEREAS, the Parties desire to amend certain terms in the SOWs relating to equity-based compensation, as more fully set forth below.
+
+NOW, THEREFORE, for good and valuable consideration, and intending to be legally bound hereby, the Parties hereby agree to the following:
+
+1.
+
+The “Payment and Processing” clause set forth in each of the SOWs is hereby replaced with the following:
+
+Payment and Processing
+
+. Velocity Global will provide timely payment and processing of the PEO Employee(s)’/Supported Worker(s)’ compensation as necessary under Applicable Laws. Except to the extent set forth in the “Equity-Based Compensation” clause below or as otherwise agreed to by the Parties in writing, the Services do not include the granting, reporting or payment of any non-standard compensation such as equity or in-kind compensation.
+
+Equity-Based Compensation
+
+. “
+
+Equity-Based Compensation
+
+” or “
+
+EBC
+
+” means any form of compensation based on the value of Client’s equity or stock, including without limitation, stock options, stock appreciation rights, restricted stock units, performance stock units, phantom equity units, etc. Employee stock purchase plans (“
+
+ESPPs
+
+”) are not supported as part of Velocity Global’s employer of record services and Client shall not grant the right to participate in any ESPPs to any Supported Workers. If the applicable PEO Employee/Supported Worker is or will be employed by a third-party partner of Velocity Global in the relevant jurisdiction (“
+
+
+--- CONFIDENTIAL | PAGE 9 | EXECUTION VERSION ---
+
+In-Country Partner
+
+” or “
+
+ICP
+
+”), Client shall not grant or pay any EBC to any such PEO Employees/Supported Workers without Velocity Global’s prior written consent, which may be withheld at Velocity Global’s sole discretion. If the applicable PEO Employee/Supported Worker is or will be employed in a jurisdiction that is on the list of viable EBC jurisdictions provided by Velocity Global to Client (and which may be updated by Velocity Global from time to time), Client must give Velocity Global prior written notice of its intent to grant or pay EBC to any such PEO Employees/Supported Workers. Upon Velocity Global’s receipt of notice from Client, Velocity Global will advise Client, based on the relevant jurisdiction, whether Client may grant or pay the applicable PEO Employee/Supported Worker EBC, and, if so, the terms on which such EBC can be granted or paid. Client shall
+
+provide Velocity Global all documents and other information needed for Velocity Global to comply with any withholding or reporting obligations in connection with Client’s grant or payment of EBC to any PEO Employee/Supported Worker promptly upon Velocity Global’s request. The Parties acknowledge that all grants and payments of EBC to any PEO Employee/Supported Worker must be made in accordance with the terms of Client’s corresponding EBC plan documents (“
+
+EBC Plan
+
+”). Client acknowledges that granting or paying EBC to any PEO Employee/Supported Worker may increase its risk of creating a co-employment relationship with the PEO Employee/Supported Worker and Client agrees that Velocity Global’s consent for Client to grant or pay EBC to any PEO Employee/Supported Worker does not constitute advice or representation with respect to co-employment or permanent establishment. Client shall indemnify, defend and hold Velocity Global and its officers, directors, employees, and agents harmless from any claim, loss, expense or other liability (including but not limited to reasonable attorney’s fees) arising out of or relating to (a) Client’s breach of this Equity-Based Compensation clause, or (b) any deficiencies in Client’s EBC Plan, including but not limited to noncompliance with any applicable tax laws and regulations such as Section 409A of the United States Internal Revenue Code. Any such indemnification obligations are excluded from the limitations of liability set forth in the Agreement.
+
+2.
+
+The following pricing terms are hereby added to the “Velocity Global Fees” table set forth in the SOWs:
+
+“
+
+Equity-Based Compensation Services:
+
+Award payroll processing: [***] per employee for each payroll transaction. Fee will be triggered after there has been a Distribution Event and the equity amount has been processed via payroll. “Distribution Event” occurs when there is no substantial risk of forfeiture and shares (or cash equivalent) have been delivered to the participant (i.e., typically at exercise for stock options and at vest for RSUs).
+
+Supplemental compliance reporting/filing of award: [***] per award for each event. Fee will be triggered upon completion of the required reporting/filing. Requirements per country vary but typically, where supplemental compliance reporting is required, the reporting obligation occurs in the year after there has been a Distribution Event (i.e., typically at exercise for stock options and at vest for RSUs).
+
+Registration of Client’s EBC Plan (as defined in the “Equity-Based Compensation” clause) in-country: [***] per EBC Plan.
+
+Equity-Based Compensation Services are optional add-ons if Client grants Equity-Based Compensation (as defined in the “Equity-Based Compensation” clause) to any PEO Employee/Supported Worker in accordance with the “Equity-Based Compensation” clause. Equity-Based Compensation Services are offered in select countries only and Velocity Global will advise Client in which countries it can offer Equity-Based Compensation Services upon request. The fees for
+
+Equity-Based Compensation Services set forth above are subject to change upon notice to Client.”
+
+3.
+
+This Amendment is governed by the terms and conditions of the Agreement. If there is any conflict between the Agreement, the SOWs and this Amendment, this Amendment prevails. Except as expressly modified herein, all terms and conditions of the Agreement and the SOWs remain in full force and effect.
+
+Signature page follows.
+
+IN WITNESS WHEREOF, the Parties have caused their duly authorized representatives to execute this Amendment effective as of the Effective Date.
+
+VELOCITY GLOBAL, LLC
+
+/s/ Mike Wilcox
+
+By: Mike Wilcox, Chief of Staff
+
+--- CONFIDENTIAL | PAGE 10 | EXECUTION VERSION ---
+
+
+KLAVIYO, INC.
+
+/s/ Michael Donovan
+
+Name: Michael Donovan
+
+Title: Procurement Manager

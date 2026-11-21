@@ -1,0 +1,16 @@
+{
+  "test_id": "1331421_000149315226028933_ex10-2.htm_var2",
+  "source_file": "1331421_000149315226028933_ex10-2.htm.txt",
+  "injected_traps": [
+    "RULE-03",
+    "RULE-05"
+  ],
+  "cured_false_positives": [
+    "RULE-04"
+  ],
+  "notes": [
+    "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+    "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+    "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "test_id": "1331421_000149315226028933_ex10-4.htm_var2",
+  "source_file": "1331421_000149315226028933_ex10-4.htm.txt",
+  "injected_traps": [
+    "RULE-05"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+    "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+  ]
+}

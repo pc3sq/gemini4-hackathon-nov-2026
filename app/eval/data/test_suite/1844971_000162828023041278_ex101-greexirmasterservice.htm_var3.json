@@ -1,0 +1,12 @@
+{
+  "test_id": "1844971_000162828023041278_ex101-greexirmasterservice.htm_var3",
+  "source_file": "1844971_000162828023041278_ex101-greexirmasterservice.htm.txt",
+  "injected_traps": [
+    "RULE-04"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+    "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+  ]
+}

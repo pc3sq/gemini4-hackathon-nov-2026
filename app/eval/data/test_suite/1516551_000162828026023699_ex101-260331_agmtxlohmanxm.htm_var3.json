@@ -1,0 +1,15 @@
+{
+  "test_id": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm_var3",
+  "source_file": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm.txt",
+  "injected_traps": [
+    "RULE-01",
+    "RULE-02",
+    "RULE-04"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+    "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+    "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap."
+  ]
+}

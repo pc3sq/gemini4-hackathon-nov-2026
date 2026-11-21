@@ -1,0 +1,11 @@
+{
+  "test_id": "1331421_000149315226028933_ex10-2.htm_var1",
+  "source_file": "1331421_000149315226028933_ex10-2.htm.txt",
+  "injected_traps": [
+    "RULE-04"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section."
+  ]
+}

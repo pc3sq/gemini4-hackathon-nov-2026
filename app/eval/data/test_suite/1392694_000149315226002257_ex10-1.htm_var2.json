@@ -1,0 +1,15 @@
+{
+  "test_id": "1392694_000149315226002257_ex10-1.htm_var2",
+  "source_file": "1392694_000149315226002257_ex10-1.htm.txt",
+  "injected_traps": [
+    "RULE-02"
+  ],
+  "cured_false_positives": [
+    "RULE-04"
+  ],
+  "notes": [
+    "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+    "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+    "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+  ]
+}

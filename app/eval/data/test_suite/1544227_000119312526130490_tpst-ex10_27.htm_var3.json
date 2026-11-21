@@ -1,0 +1,11 @@
+{
+  "test_id": "1544227_000119312526130490_tpst-ex10_27.htm_var3",
+  "source_file": "1544227_000119312526130490_tpst-ex10_27.htm.txt",
+  "injected_traps": [
+    "RULE-03"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window."
+  ]
+}

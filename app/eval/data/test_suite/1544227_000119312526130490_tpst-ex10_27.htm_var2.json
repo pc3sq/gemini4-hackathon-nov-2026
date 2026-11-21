@@ -1,0 +1,16 @@
+{
+  "test_id": "1544227_000119312526130490_tpst-ex10_27.htm_var2",
+  "source_file": "1544227_000119312526130490_tpst-ex10_27.htm.txt",
+  "injected_traps": [
+    "RULE-01",
+    "RULE-03",
+    "RULE-05"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+    "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+    "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+    "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+  ]
+}

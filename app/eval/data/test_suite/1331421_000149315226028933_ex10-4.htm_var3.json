@@ -1,0 +1,15 @@
+{
+  "test_id": "1331421_000149315226028933_ex10-4.htm_var3",
+  "source_file": "1331421_000149315226028933_ex10-4.htm.txt",
+  "injected_traps": [
+    "RULE-03"
+  ],
+  "cured_false_positives": [
+    "RULE-04"
+  ],
+  "notes": [
+    "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+    "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+    "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+  ]
+}

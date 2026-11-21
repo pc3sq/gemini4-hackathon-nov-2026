@@ -1,0 +1,15 @@
+{
+  "test_id": "1835830_000183583025000110_exhibit104-velocityglobalx.htm_var2",
+  "source_file": "1835830_000183583025000110_exhibit104-velocityglobalx.htm.txt",
+  "injected_traps": [
+    "RULE-01",
+    "RULE-02",
+    "RULE-04"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+    "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+    "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section."
+  ]
+}

@@ -1,0 +1,428 @@
+[
+  {
+    "test_id": "1544227_000119312526130490_tpst-ex10_27.htm_var1",
+    "source_file": "1544227_000119312526130490_tpst-ex10_27.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-03",
+      "RULE-05"
+    ],
+    "cured_false_positives": [
+      "RULE-04"
+    ],
+    "notes": [
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1544227_000119312526130490_tpst-ex10_27.htm_var2",
+    "source_file": "1544227_000119312526130490_tpst-ex10_27.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-03",
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1544227_000119312526130490_tpst-ex10_27.htm_var3",
+    "source_file": "1544227_000119312526130490_tpst-ex10_27.htm.txt",
+    "injected_traps": [
+      "RULE-03"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window."
+    ]
+  },
+  {
+    "test_id": "1331421_000149315226028933_ex10-4.htm_var1",
+    "source_file": "1331421_000149315226028933_ex10-4.htm.txt",
+    "injected_traps": [
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1331421_000149315226028933_ex10-4.htm_var2",
+    "source_file": "1331421_000149315226028933_ex10-4.htm.txt",
+    "injected_traps": [
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1331421_000149315226028933_ex10-4.htm_var3",
+    "source_file": "1331421_000149315226028933_ex10-4.htm.txt",
+    "injected_traps": [
+      "RULE-03"
+    ],
+    "cured_false_positives": [
+      "RULE-04"
+    ],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm_var1",
+    "source_file": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-02",
+      "RULE-03"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm_var2",
+    "source_file": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm.txt",
+    "injected_traps": [
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window."
+    ]
+  },
+  {
+    "test_id": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm_var3",
+    "source_file": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-02",
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap."
+    ]
+  },
+  {
+    "test_id": "1393584_000119312526001087_amwl-ex10_1.htm_var1",
+    "source_file": "1393584_000119312526001087_amwl-ex10_1.htm.txt",
+    "injected_traps": [
+      "RULE-03",
+      "RULE-04",
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window."
+    ]
+  },
+  {
+    "test_id": "1393584_000119312526001087_amwl-ex10_1.htm_var2",
+    "source_file": "1393584_000119312526001087_amwl-ex10_1.htm.txt",
+    "injected_traps": [
+      "RULE-02",
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations."
+    ]
+  },
+  {
+    "test_id": "1393584_000119312526001087_amwl-ex10_1.htm_var3",
+    "source_file": "1393584_000119312526001087_amwl-ex10_1.htm.txt",
+    "injected_traps": [
+      "RULE-02",
+      "RULE-03",
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section."
+    ]
+  },
+  {
+    "test_id": "1937993_000121390026073213_ea029632801ex10-1.htm_var1",
+    "source_file": "1937993_000121390026073213_ea029632801ex10-1.htm.txt",
+    "injected_traps": [
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1937993_000121390026073213_ea029632801ex10-1.htm_var2",
+    "source_file": "1937993_000121390026073213_ea029632801ex10-1.htm.txt",
+    "injected_traps": [
+      "RULE-02",
+      "RULE-03",
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1937993_000121390026073213_ea029632801ex10-1.htm_var3",
+    "source_file": "1937993_000121390026073213_ea029632801ex10-1.htm.txt",
+    "injected_traps": [
+      "RULE-02",
+      "RULE-03",
+      "RULE-05"
+    ],
+    "cured_false_positives": [
+      "RULE-04"
+    ],
+    "notes": [
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1392694_000149315226002257_ex10-1.htm_var1",
+    "source_file": "1392694_000149315226002257_ex10-1.htm.txt",
+    "injected_traps": [
+      "RULE-03",
+      "RULE-04",
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window."
+    ]
+  },
+  {
+    "test_id": "1392694_000149315226002257_ex10-1.htm_var2",
+    "source_file": "1392694_000149315226002257_ex10-1.htm.txt",
+    "injected_traps": [
+      "RULE-02"
+    ],
+    "cured_false_positives": [
+      "RULE-04"
+    ],
+    "notes": [
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1392694_000149315226002257_ex10-1.htm_var3",
+    "source_file": "1392694_000149315226002257_ex10-1.htm.txt",
+    "injected_traps": [
+      "RULE-02",
+      "RULE-03",
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window."
+    ]
+  },
+  {
+    "test_id": "1716166_000149315226035867_ex10-2.htm_var1",
+    "source_file": "1716166_000149315226035867_ex10-2.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-03",
+      "RULE-05"
+    ],
+    "cured_false_positives": [
+      "RULE-04"
+    ],
+    "notes": [
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1716166_000149315226035867_ex10-2.htm_var2",
+    "source_file": "1716166_000149315226035867_ex10-2.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-02"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations."
+    ]
+  },
+  {
+    "test_id": "1716166_000149315226035867_ex10-2.htm_var3",
+    "source_file": "1716166_000149315226035867_ex10-2.htm.txt",
+    "injected_traps": [
+      "RULE-03",
+      "RULE-04",
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1331421_000149315226028933_ex10-2.htm_var1",
+    "source_file": "1331421_000149315226028933_ex10-2.htm.txt",
+    "injected_traps": [
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section."
+    ]
+  },
+  {
+    "test_id": "1331421_000149315226028933_ex10-2.htm_var2",
+    "source_file": "1331421_000149315226028933_ex10-2.htm.txt",
+    "injected_traps": [
+      "RULE-03",
+      "RULE-05"
+    ],
+    "cured_false_positives": [
+      "RULE-04"
+    ],
+    "notes": [
+      "INJECTED [RULE-03]: Appends a DPA Exhibit B imposing a 72-hour post-verification breach notification window.",
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "CURED TRAP [RULE-04]: Contains URL terms reference, but a later override explicitly freezes terms as of the Effective Date."
+    ]
+  },
+  {
+    "test_id": "1331421_000149315226028933_ex10-2.htm_var3",
+    "source_file": "1331421_000149315226028933_ex10-2.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-05"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window.",
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap."
+    ]
+  },
+  {
+    "test_id": "1844971_000162828023041278_ex101-greexirmasterservice.htm_var1",
+    "source_file": "1844971_000162828023041278_ex101-greexirmasterservice.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1844971_000162828023041278_ex101-greexirmasterservice.htm_var2",
+    "source_file": "1844971_000162828023041278_ex101-greexirmasterservice.htm.txt",
+    "injected_traps": [
+      "RULE-01"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap."
+    ]
+  },
+  {
+    "test_id": "1844971_000162828023041278_ex101-greexirmasterservice.htm_var3",
+    "source_file": "1844971_000162828023041278_ex101-greexirmasterservice.htm.txt",
+    "injected_traps": [
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1835830_000183583025000110_exhibit104-velocityglobalx.htm_var1",
+    "source_file": "1835830_000183583025000110_exhibit104-velocityglobalx.htm.txt",
+    "injected_traps": [
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  },
+  {
+    "test_id": "1835830_000183583025000110_exhibit104-velocityglobalx.htm_var2",
+    "source_file": "1835830_000183583025000110_exhibit104-velocityglobalx.htm.txt",
+    "injected_traps": [
+      "RULE-01",
+      "RULE-02",
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations.",
+      "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section."
+    ]
+  },
+  {
+    "test_id": "1835830_000183583025000110_exhibit104-velocityglobalx.htm_var3",
+    "source_file": "1835830_000183583025000110_exhibit104-velocityglobalx.htm.txt",
+    "injected_traps": [
+      "RULE-04"
+    ],
+    "cured_false_positives": [],
+    "notes": [
+      "INJECTED [RULE-04]: Embeds unilateral right to update terms via hyperlink inside the Definitions section.",
+      "NOISE: Applied scanned PDF OCR artifacts and mid-page headers."
+    ]
+  }
+]

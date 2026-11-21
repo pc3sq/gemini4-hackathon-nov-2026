@@ -1,0 +1,11 @@
+{
+  "test_id": "1844971_000162828023041278_ex101-greexirmasterservice.htm_var2",
+  "source_file": "1844971_000162828023041278_ex101-greexirmasterservice.htm.txt",
+  "injected_traps": [
+    "RULE-01"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap."
+  ]
+}

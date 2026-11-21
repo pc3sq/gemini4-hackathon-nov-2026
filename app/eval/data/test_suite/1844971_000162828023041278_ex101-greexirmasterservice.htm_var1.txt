@@ -1,0 +1,1153 @@
+EX-10.1
+
+2
+
+ex101-greexirmasterservice.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this “
+
+Agreement
+
+”), effective as of December 11, 2023 (“
+
+Effective Date
+
+”), is entered into by and between Greenidge Generation Holdings Inc., a Delaware corporation (“
+
+Greenidge
+
+”), and Infinite Reality, Inc., a Delaware corporation (“
+
+IR,
+
+” and together with Greenidge, the “
+
+Parties
+
+,” and each of the, a “
+
+Party
+
+”).
+
+WHEREAS
+
+, IR is in the business of developing immersive experiences for clients in digital content creation, distribution and commercialization and audience and community engagement and desires to receive the Services (as defined below) from Greenidge for its own account and that of its clients (each, an “
+
+IR Client
+
+--- CONFIDENTIAL | PAGE 2 | EXECUTION VERSION ---
+
+
+,” and collectively, the “
+
+IR Clients
+
+”); and
+
+WHEREAS
+
+, Greenidge desires to deliver the Services to IR and/or the IR Clients, all pursuant to the terms and conditions set forth in this Agreement and each applicable Order (as defined below).
+
+NOW, THEREFORE
+
+, in consideration of the mutual covenants and agreements hereinafter set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+1.
+
+Agreement Structure
+
+.
+
+(a)
+
+This Agreement sets forth the general terms and conditions applicable to the performance of Services by Greenidge or one or more of its Affiliates (as defined below) for IR and/or IR Clients, all pursuant to orders mutually executed and delivered by the Parties (each order as mutually agreed and executed, an “
+
+Order
+
+”). Each Order reflects a separate agreement between Greenidge and IR and is deemed to incorporate all the provisions of this Agreement;
+
+provided
+
+that
+
+, for any given Order, in the event that any conflict, inconsistency or ambiguity is created by incorporation of a term of this Agreement into such Order, the terms set forth in such Order (without giving effect to such term of this Agreement) shall control and govern.
+
+2.
+
+Orders
+
+.
+
+(a)
+
+It is expressly understood and agreed that the Parties’ expectation is that each Order will substantially be in the form attached hereto as
+
+
+--- CONFIDENTIAL | PAGE 3 | EXECUTION VERSION ---
+
+Exhibit A
+
+, with such specific modifications (including additions, deletions and supplements) as to which the Parties expressly mutually agree (each Party in its sole discretion).
+
+(b)
+
+It is further expressly understood and agreed for each Order and prior to execution by either Party of such Order (each in its sole discretion), they will each use their respective good faith, commercially reasonable efforts to mutually agree upon the following terms applicable to such Order, including:
+
+(i)
+
+the identity of the third party provider or providers of data center services (each, a “
+
+Third Party Provider
+
+”) the services of which Greenidge will procure to deliver the Services under such Order and which Third Party Provider(s) are acceptable to IR;
+
+(ii)
+
+the calendar day on which delivery of the Services under such Order are to be commenced (the “
+
+Commencement Date
+
+”);
+
+(iii)
+
+the calendar day on which delivery of the Services under such Order are to be ceased (the “
+
+End Date
+
+”);
+
+(iv)
+
+each IR Client, if any, to which Services are to be delivered;
+
+(v)
+
+the specific required GPU and data center services for such IR Client and IR, respectively and as applicable, including software, RAM, number of
+
+CPU cores, storage capacity, and type and number of GPUs to be provided (the “
+
+Minimum Performance Metrics
+
+”) to (A) each IR Client, and (B) IR, all as applicable to such Order;
+
+--- CONFIDENTIAL | PAGE 4 | EXECUTION VERSION ---
+
+
+(vi)
+
+the maximum rate per hour of virtualized instance of compute and/or other maximum dollar amounts that will be payable for each of the Services to be performed under such Order for IR or an IR Client or such other dollar amount that will represent a maximum on the aggregate Service Fees payable in respect of such Services (the “
+
+Maximum Services Fees
+
+”) so long as no subsequent revisions are made to the applicable Order (including adding Services or changes to the Minimum Performance Metrics);
+
+(vii)
+
+the amount to be paid by IR as a deposit applicable to such Order (the “
+
+Deposit
+
+”);
+
+(viii)
+
+the date by which Invoices (as defined below) for such Order must be delivered by Greenidge to IR (the “
+
+Invoice Delivery Deadline
+
+”);
+
+1.19 "Agreement" includes this MSA, any Order Forms, and the Online Service Terms published at https://example.com, which Vendor may modify from time to time in its sole discretion upon posting, with Customer's continued use constituting binding acceptance.
+
+1.14 "Applicable Fees" means solely the recurring base seat license charges actually received by Vendor in the three (3) months immediately preceding the event giving rise to liabi1ity, expressly excluding implementation, onboarding, support, and usage overage charges.
+
+(ix)
+
+the date by which amounts payable by IR under each Invoice for such Order are due (the “
+
+Payment Deadline
+
+”); and
+
+(x)
+
+such other and/or additional terms as the Parties may mutually agree to be specified in such Order.
+
+(c)
+
+Greenidge agrees that, for any Order, it shall provide IR and IR Clients the most favorable rates charges to its other customers and, for any given Order, in no event shall such rates exceed the competitive market rates specified in such Order (such Order’s “
+
+
+--- CONFIDENTIAL | PAGE 5 | EXECUTION VERSION ---
+
+Competitive Market Rates
+
+”).
+
+3.
+
+Services; Service Standards
+
+.
+
+(a)
+
+Services
+
+. From and after the Effective Date, for each Order executed during the Term (as defined below), Greenidge will deliver, or cause to be delivered, to IR and/or the IR Clients (as applicable and specified in such Order) access to graphics processing units (“
+
+GPUs
+
+”) and other data center services on the terms specified in such Order (collectively, the “
+
+Services
+
+”).
+
+(b)
+
+Service Standards
+
+. Greenidge represents, covenants and agrees that it shall provide the Services hereunder in a high quality and professional manner (which, at minimum, shall conform to prevailing industry standard and industry best practices applicable to such Services at the time of delivery), and shall at all times perform all Services and handle all IR and IR Client data provided hereunder or to which it may have access hereunder in compliance with all applicable laws, statutes and regulations, including, for the avoidance of doubt, all applicable data protection and data security legislation. In the event that IR becomes aware of any events, facts or conditions that IR in good faith and reasonably believes constitute a breach of the foregoing by Greenidge (each a “
+
+Potential Standards Breach
+
+”), IR shall deliver written notice of such Potential Standards Breach to Greenidge, describing such Potential Standards Breach in reasonable detail, and Greenidge shall use commercially reasonable efforts to cure or otherwise remedy such Potential Standards Breach. If Greenidge shall fail to so cure or otherwise remedy such Potential Standards Breach, as determined by IR in its good faith discretion (an “
+
+Uncured Standards Breach
+
+”), then IR shall have the right to immediately terminate any outstanding Orders with respect to which there exists an Uncured Standards Breach.
+
+4.
+
+Payments; Deposit
+
+.
+
+(a)
+
+--- CONFIDENTIAL | PAGE 6 | EXECUTION VERSION ---
+
+
+Unless otherwise specified in the applicable Order, IR agrees to pay, or cause to be paid, to Greenidge all amounts due and payable under each Invoice (as defined below) in accordance with the payment terms specified in such Order, including for the avoidance of doubt, the deadline by which amounts under each Invoice are due and payable (the “
+
+Payment Deadline
+
+”).
+
+2
+
+(b)
+
+IR further agrees that, for each Order, and prior to Greenidge being required to deliver Services thereunder, IR will pay, or cause to be paid, the Deposit specified in such Order. Such Deposit, when paid, shall be deemed to be a prepayment on account of the Services to be delivered under such Order and shall be applied by Greenidge as a prepayment against all amounts due from IR on the applicable Invoice.
+
+(c)
+
+All payments required to be made hereunder or under any Order to Greenidge shall be made by wire transfer in immediately available funds to an account specified to IR in writing by Greenidge.
+
+5.
+
+Invoices
+
+.
+
+(a)
+
+For each calendar month during which any Services are delivered (each such month, a “
+
+Service Month
+
+”), Greenidge shall deliver to IR an invoice (each, an “
+
+Invoice
+
+”) by not later than the Invoice Deadline specified in the applicable Order.
+
+(b)
+
+Each Invoice shall set forth, for the applicable Service Month:
+
+(i)
+
+the aggregate gross amount due and payable by IR on account of Services delivered during such Service Month (such gross amount, the “
+
+Service Fees
+
+
+--- CONFIDENTIAL | PAGE 7 | EXECUTION VERSION ---
+
+”), detailing the portion of such Service Fee Amount that represents (A) the IR Service Fee (as defined in
+
+Schedule 1
+
+), if any, and (B) IR Client Service Fee (as defined in
+
+Schedule 1
+
+), if any;
+
+(ii)
+
+the amount of the Deposit previously paid by IR in respect of the Services delivered during such Service Month, reflected as a credit against the Services Fees for such Service Month;
+
+(iii)
+
+the Profit Share Amount (as defined in
+
+Schedule 1
+
+), if any, to be credited to IR for such Service Month in accordance with
+
+Schedule 1
+
+; and
+
+(iv)
+
+the final net amount, after applying each of the foregoing amounts, due and payable by IR, for such Service Month.
+
+(c)
+
+For the avoidance of doubt, the aggregate Service Fees payable for any given Order (whether billed on one or across multiple Invoices) shall not exceed the Maximum Service Fees, if any, specified in such Order.
+
+(d)
+
+Each Invoice delivered to IR shall be accompanied by an accounting of each item of Internal Cost and Out of Pocket Cost included in such Invoice, including a reasonable description of each.
+
+6.
+
+Disputed Invoices
+
+.
+
+(a)
+
+--- CONFIDENTIAL | PAGE 8 | EXECUTION VERSION ---
+
+
+From and after delivery of an Invoice to IR, IR shall have the right to dispute any specific item or items set forth in such Invoice by delivering to Greenidge a notice in writing (each such notice, a “
+
+Dispute Notice
+
+”) identifying the specific item or items (including amounts) being disputed (each such item, a “
+
+Disputed Item
+
+,” and the Invoice being disputed, a “
+
+Disputed Invoice
+
+”) and providing in reasonably sufficient detail the basis for such dispute, by not later than the date that is the Payment Deadline for such Invoice (the period of time from delivery to IR of an Invoice through to the Payment Deadline being, the “
+
+Dispute Period
+
+”). For any given Invoice, if a Dispute Notice is not delivered to Greenidge by the expiration of the Dispute Period, all items and amounts set forth in such Invoice shall be deemed to be final and binding on IR.
+
+(b)
+
+If a Dispute Notice is delivered to Greenidge for an Invoice before the expiration of the Dispute Period (the actual date of such delivery, the “
+
+Dispute Notice Delivery Date
+
+”), then:
+
+3
+
+(i)
+
+during the ten (10)-Business Day period immediately following such Dispute Notice Delivery Date (such period, or such longer period as the Parties shall mutually agree in writing (each in its sole discretion), the “
+
+Mutual Resolution Period
+
+”), each Party shall use its commercially reasonably, good faith efforts to mutually resolve the Disputed Items before the expiration of such Mutual Resolution Period (including furnishing, or causing to be furnished, to the other Party such information and documentation as may be commercially reasonably requested by such other Party in respect of any Disputed Item); and
+
+(ii)
+
+the Payment Deadline for the applicable Disputed Invoice shall be tolled until the earlier to occur of (x) the Mutual Resolution Date (as defined below) whereupon the Payment Deadline shall be as set forth in
+
+Section 6(c)
+
+, and (y) the Final Determination Date (as defined below) whereupon the Payment Deadline shall be as set forth in
+
+
+--- CONFIDENTIAL | PAGE 9 | EXECUTION VERSION ---
+
+Section 6(d)
+
+.
+
+(c)
+
+If, by the expiration of the Mutual Resolution Period, the Parties mutually resolve all Disputed Items under the applicable Disputed Invoice, then within five (5) Business Days after the date of such mutual resolution (such date, the “
+
+Mutual Resolution Date
+
+”), Greenidge shall deliver to IR the applicable Disputed Invoice, revised to reflect such mutual resolution, and the Payment Deadline in respect of such revised Disputed Invoice shall be five (5) Business Days after the receipt by IR of such revised Disputed Invoice
+
+(d)
+
+If, by the expiration of the Mutual Resolution Period, the Parties shall have failed to resolve all Disputed Items under the applicable Disputed Invoice, then the Parties shall jointly engage an independent accounting firm mutually agreed upon by the Buyer and the Seller, each acting commercially reasonably (the “
+
+Independent Arbitrator
+
+”) for review and resolution of any such unresolved Disputed Items. The Independent arbitrator shall (A) act as an arbitrator and not as an auditor, (B) be bound by the principles set forth in this Agreement (and not by independent review), (C) limit its review to those Disputed Items set forth in the Dispute Notice that remain unresolved, and (D) not assign a value to any Disputed Item that is greater than the greatest value for such Disputed Item, or less than the smallest value for such Disputed Item, in either case claimed by either Party. The Independent Arbitrator shall be instructed to resolve the Disputed Items that remain unresolved promptly, and to render its final determination in writing to both Parties setting forth in reasonable detail the basis upon which its determination was made (the “
+
+Independent Arbitrator’s Determination
+
+”). The date on which the Independent Arbitrator has furnished both Parties with the Independent Arbitrator’s Determination in writing is the “
+
+Final Determination Date
+
+.” Within ten (10) Business Days after receipt by Greenidge of the Independent Arbitrator’s Determination, Greenidge shall deliver to IR the applicable Disputed Invoice, revised to reflect such Final Determination, and the Payment Deadline in respect of such revised Disputed Invoice shall be five (5) Business Days after the receipt by IR of such revised Disputed Invoice.
+
+(e)
+
+The costs and expenses of the Independent Arbitrator in determining any Disputed Items shall be borne 50/50 by each Party.
+
+(f)
+
+Audit Rights
+
+. In addition to the foregoing and without limitation thereof, each of the Parties shall have the right upon reasonable advance written notice to the other Party, and during normal business hours, to access to the relevant books and records of such other Party that support, or otherwise are reasonably necessary to calculate or otherwise ascertain, the Service Fees and/or other amount related to the Services;
+
+provided
+
+that
+
+nothing herein (including the foregoing) shall require any Party to provide any Person access to any information, documentation or communications that are subject to privilege or the provision of which would otherwise contravene applicable law.
+
+7.
+
+--- CONFIDENTIAL | PAGE 10 | EXECUTION VERSION ---
+
+
+Other Agreements
+
+.
+
+(a)
+
+Exclusivity
+
+. Provided that Greenidge meets any and all cost, data protection, security, service and performance requirements hereunder, as determined by IR in its reasonable and good faith discretion, IR agrees that, during the Term, IR will not engage or otherwise use any other provider of
+
+4
+
+GPUs or other data center services for services substantially similar to the Services (whether for its own account or that of any IR Client), other than pursuant to this Agreement and an Order.
+
+(b)
+
+Data Center Exploration
+
+. Each Party agrees that, during the Term until such time as such Party delivers written notice to the other Party of its intention to terminate such discussions, it will use good faith, commercially reasonable efforts to engage with the other Party in exploring the development, construction and operation of an artificial intelligence GPU data center (the “
+
+Data Center
+
+”), all on such terms and conditions to be negotiated and mutually agreed by the Parties. For the avoidance of doubt, (x) except to the limited extent set forth in the preceding sentence, no binding agreement between the Parties shall be deemed to exist with respect to any such Data Center unless and until definitive documentation providing for same is negotiated and duly executed by each Party, and (y) IR expressly acknowledges and agrees that, notwithstanding any terms set forth in this Agreement and any Order, the economic and other terms with respect to any such Data Center (including, for the avoidance of doubt, with respect to pricing, service fees and any profit sharing related to IR usage) remain to be separately negotiated
+
+de novo
+
+and mutually agreed in definitive documentation duly executed by each Party.
+
+(c)
+
+No Partnership, Joint Venture, etc.
+
+. Notwithstanding anything herein to the contrary, nothing in this Agreement or any Order establishes any relationship of partnership, joint venture, employment, franchise or agency between the Parties (including, for the avoidance of doubt, with respect to any Data Center).
+
+8.
+
+Representations and Warranties
+
+. Each Party represents and warrants that as of the Effective Date and as of the date of execution of each Order,
+
+(a)
+
+it is duly organized and validly existing under the laws of its jurisdiction of formation or incorporation;
+
+
+--- CONFIDENTIAL | PAGE 11 | EXECUTION VERSION ---
+
+(b)
+
+it has full legal capacity, right, power and authority to execute and deliver, and to perform its obligations under, this Agreement and each Order, and such execution, delivery, and performance have been authorized by all necessary consents and approvals on its part;
+
+(c)
+
+this Agreement and each Order has been duly and validly executed and delivered by it, constitutes its legal, valid, and binding obligations, and is enforceable against it in accordance with its terms (except to the extent that its enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium, or other similar laws affecting the rights of creditors generally or by general principles of equity); and
+
+(d)
+
+except as otherwise disclosed in writing as of the time this representation is made or repeated, there are no actions, suits, proceedings, or investigations pending or, to its knowledge, threatened in writing against it, at law or in equity before any Governmental Authority (as defined below) that individually or in the aggregate are reasonably likely to have a materially adverse effect on its business, properties, assets, or condition (financial or otherwise) affecting, or to result in any material impairment of, its ability to perform its obligations under this Agreement or any Order.
+
+9.
+
+Term and Termination
+
+.
+
+(a)
+
+This Agreement is effective as of the Effective Date and the Parties may enter into Orders in connection with this Agreement until the date that is earliest to occur of the following (such period being, the “
+
+Term
+
+”):
+
+(i)
+
+the fourth (4
+
+th
+
+) anniversary of the Effective Date, unless, by the date that is not later than ninety (90) days before such fourth (4
+
+th
+
+) anniversary, IR shall have delivered to Greenidge a written notice (which may be delivered or not delivered by IR in its sole discretion) that the Term Expiration Date shall be extended until the date that is the eighth (8
+
+th
+
+) anniversary of the Effective Date (such fourth (4
+
+th
+
+) or eighth (8
+
+--- CONFIDENTIAL | PAGE 12 | EXECUTION VERSION ---
+
+
+th
+
+) anniversary date, the “
+
+Term Expiration Date
+
+”);
+
+5
+
+(ii)
+
+early termination of the Term by mutual written agreement of both Parties;
+
+(iii)
+
+termination of the Term by either Party by notice in writing to the other Party if there have been no Orders executed for six (6) consecutive months;
+
+(iv)
+
+termination of the Term by a party by notice in writing to the other Party (in such case, a “
+
+Defaulting Party
+
+”) if any of the following events (each, a “
+
+Default
+
+”) occurs and is continuing:
+
+(A)
+
+the Defaulting Party breaches any of its material obligations under any Order or otherwise this Agreement and fails to cure such breach within five (5) Business Days following receipt of written notice of such breach; or
+
+(B)
+
+any written representation or warranty made by the Defaulting Party in connection with an Order or otherwise this Agreement shall have been false or misleading in any material respect when made or repeated and the conditions causing such representation or warranty to be false or misleading are not corrected within five (5) Business Days following receipt by the Defaulting Party of written notice thereof.
+
+(b)
+
+Upon the expiration or earlier termination of the Term, the Parties’ respective obligations hereunder shall immediately terminate, except that (i) the Parties’ respective obligations under
+
+Section 2
+
+
+--- CONFIDENTIAL | PAGE 13 | EXECUTION VERSION ---
+
+(Orders),
+
+Section 3
+
+(Services; Service Standards),
+
+Section 4
+
+(Payments; Deposits),
+
+Section 5
+
+(Invoices) and
+
+Section 6
+
+(Disputed Invoices) in respect of Services delivered prior to the time of such expiration or earlier termination shall survive until fully performed, (ii) except as otherwise expressly agreed in writing by each Party (each in its sole discretion), any Order executed and outstanding as of the time of such expiration or earlier termination shall remain effective, and the Parties’ obligations thereunder shall survive until fully performed in accordance therewith, (iii) such expiration or earlier termination shall not relieve a Party of any breach of this Agreement or any Order that occurred prior to such expiration or earlier termination, and (iv)
+
+Section 1
+
+(Agreement Structure), this
+
+Section 9
+
+(Term and Termination),
+
+Section 10
+
+(Indemnification),
+
+Section 11
+
+(Confidentiality) and
+
+Section 12
+
+(Miscellaneous) shall survive.
+
+(c)
+
+Notwithstanding
+
+Section 9(b)
+
+above, if IR is the Defaulting Party and a Default under
+
+--- CONFIDENTIAL | PAGE 14 | EXECUTION VERSION ---
+
+
+Section 9(a)(iv)(A)
+
+above has occurred and is continuing as set forth therein, Greenidge may suspend the delivery of Services under any outstanding Order.
+
+10.
+
+Indemnification
+
+.
+
+(a)
+
+Each Party shall indemnify, defend and hold harmless the other Party, its Affiliates and its and their respective officers, directors, members, managers, employees, agents, counsel and other representatives (collectively, “
+
+Representatives
+
+”) from and against any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys’ fees and expenses and litigation costs) (collectively, “
+
+Losses
+
+”) resulting from or otherwise arising out of any breach or default of its obligations under any Order or otherwise this Agreement or any breach or inaccuracy of any of such Party’s representations and warranties (in any such case, whether occurring before or after the expiration or earlier termination of the Term);
+
+provided
+
+that
+
+, the foregoing indemnification shall not be available to any Person (as defined below) for any Losses to the extent resulting from or otherwise arising out of such Person’s own gross negligence or willful misconduct.
+
+11.
+
+Confidentiality
+
+.
+
+(a)
+
+Each Party agrees that, from the date hereof until the date that is five (5) years after the date of expiration or earlier termination of the Term, such Party will keep, and will cause its
+
+6
+
+Affiliates and its and their respective Representatives, to keep, the terms of this Agreement, each Order, all information about the other Party’s (and its Affiliates’ and its and their respective Representatives) business and operations, including information relating to the Services, or otherwise exchanged in connection therewith, or any current and potential business strategies, performance data, reports, marketing materials, computer software, data files, file layouts, databases, analyses, technical know-how, trade secrets, portfolio positions, valuations, investment or trading strategies, and commitments and arrangements with Affiliates, Representatives, service providers and other third parties (collectively, “
+
+Confidential Information
+
+
+--- CONFIDENTIAL | PAGE 15 | EXECUTION VERSION ---
+
+”), strictly confidential, and will not, and will cause its Affiliates and its and their respective Representatives not to, make any disclosure of any Confidential Information to any Person without the prior written consent of such other Party, except (i) as required by or under applicable law (including, for the avoidance of doubt, rules and regulations promulgated by the Securities and Exchange Commission (the “
+
+SEC
+
+”)), or as required by the rules or regulations of any stock exchange or marketplace on which any securities of such Party are listed or traded, or (ii) to such Party or its’ Affiliates’ respective direct or indirect equity owners, debt or equity financing sources, affiliated investment funds, investors and bona fide potential investors, insurers, advisors, auditors, accountants, legal counsel, and their respective Representatives, in each case that have a need to know such information, and who are subject to customary confidentiality restrictions at least as restrictive as those set forth in this
+
+Section 11
+
+with respect to the use and further disclosure of such Confidential Information.
+
+(b)
+
+The restrictions set forth in
+
+Section 11(a)
+
+with respect to the Confidential Information shall not apply to any information that (i) hereafter becomes generally available to the public other than as a result of an unauthorized disclosure, directly or indirectly, of such Confidential Information, (ii) was available to the Person receiving such Confidential Information on a non-confidential basis prior to its disclosure, or (iii) becomes available to the Person receiving the Confidential Information on a non-confidential basis from a source other than a Party, one of its Affiliates, or its or their respective Representatives, and which source was not itself bound by a confidentiality agreement or other restrictions in respect of such Confidential Information. For the avoidance of doubt, notwithstanding anything herein to the contrary, nothing in this
+
+Section 11
+
+shall prohibit, restrict or otherwise limit a Party from making, in its sole discretion, public disclosures as required by applicable law (including, for the avoidance of doubt, the filing of annual reports, quarterly reports or current reports on forms promulgated by the SEC) or by the rules or regulations of any stock exchange or marketplace on which its securities are listed or traded.
+
+12.
+
+Miscellaneous
+
+.
+
+(a)
+
+Certain Definitions
+
+. For purposes of this Agreement, the following terms have the respective meanings set forth below:
+
+(i)
+
+“
+
+Affiliate
+
+” means, with respect to a person or entity, any person or entity that, directly or indirectly, controls, is controlled by, or is under common control with, such person or entity, where “control” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person or entity.
+
+(ii)
+
+“
+
+--- CONFIDENTIAL | PAGE 16 | EXECUTION VERSION ---
+
+
+Business Day
+
+” means any day other than (i) Saturday or Sunday and (ii) any other day on which commercial banks in New York, New York are authorized or required by applicable law to close.
+
+(iii)
+
+“
+
+Governmental Authority
+
+” means any federal, state, municipal, national or other government, governmental department, quasi-governmental authority, commission, board, bureau, court, tribunal, Tax commission or official, agency or instrumentality or political subdivision thereof or any entity or officer exercising executive, legislative, judicial, regulatory or administrative functions of or pertaining to any government or any court, in each case whether associated with a state of the United States, the United States or other foreign entity or government.
+
+(iv)
+
+“
+
+Person
+
+” means and includes natural persons, corporations, limited partnerships, general partnerships, limited liabi1ity companies, limited liability partnerships, joint stock companies, joint ventures, associations, companies, trusts, banks, trust companies, land trusts, business
+
+7
+
+trusts, statutory trusts, series trusts, or other organizations and entities, whether or not legal entities, and Governmental Authorities.
+
+(b)
+
+Notice
+
+. All notices, consents, waivers and other communications required or permitted under each Order and otherwise this Agreement shall be in writing and deemed to have been duly given if delivered in person, or by certified mail (postage prepaid, return-receipt requested), overnight by a national recognized delivery service (with proof of delivery given by such service) or e-mail or other electronic transmission (with confirmation of such transmission), in each case to the addresses set forth below (or to such other addresses as such Person may designate by notice to each Party given in accordance with this
+
+Section 12(b)
+
+):
+
+If to Greenidge:
+
+c/o Greenidge Generation Holdings Inc.
+
+135 Rennell Drive
+
+3rd Floor
+
+Fairfield, CT 06890
+
+
+--- CONFIDENTIAL | PAGE 17 | EXECUTION VERSION ---
+
+Attention: Jordan Kovler, Chief Executive Officer
+
+Email:
+
+jkovler@greenidge.com
+
+If to IR:
+
+Infinite Reality, Inc.
+
+50 Washington Street, Suite 402E
+
+Norwalk, CT 06854
+
+Attention: John Acunto, CEO
+
+Email:
+
+j@theinfinitereality.com
+
+With a copy to: General Counsel
+
+Email:
+
+jennifer@theinfinitereality.com
+
+(c)
+
+Interpretation
+
+. For purposes of this Agreement and each Order, the following rules of interpretation shall apply, except to the extent otherwise expressly provided or the context otherwise requires:
+
+(i)
+
+any reference to “$” shall mean U.S. dollars;
+
+(ii)
+
+references to “Section,” “Schedule,” or “Exhibit” in this Agreement refer to the corresponding section, schedule or exhibit, respectively, of this Agreement;
+
+(iii)
+
+all schedules and exhibits attached hereto or referred to herein are hereby incorporated in and made a part of this Agreement as if set forth in full herein. Any capitalized terms used in any schedule or exhibit but not otherwise respectively defined therein shall be defined as set forth in this Agreement;
+
+(iv)
+
+--- CONFIDENTIAL | PAGE 18 | EXECUTION VERSION ---
+
+
+the headings and captions of each section of this Agreement or any Order (and any exhibit, appendix or annex thereto) are provided for convenience only and shall not affect the construction or interpretation of this Agreement or any Order;
+
+(v)
+
+any reference to gender shall include all genders, and words imparting the singular number only shall include the plural and vice versa;
+
+(vi)
+
+the words “herein,” “hereof,” “hereunder” and “herewith” in this Agreement refer to this Agreement as a whole and not merely to a subdivision in which such words appear; and
+
+8
+
+(vii)
+
+the word “including” or any variation thereof means “including, without limitation” and shall not be construed to limit any general statement that it follows to the specific or similar items or matters immediately following it.
+
+(d)
+
+Severability
+
+. If any term or other provision of this Agreement or any Order is determined to be invalid, illegal or incapable of being enforced under any applicable law, all other conditions and provisions of this Agreement and such Order, respectively and as applicable,
+
+shall nevertheless remain in full force and effect so long as the economic and legal substance hereof and thereof as originally intended by the Parties remains effected. Upon such determination that any such term or other provision is invalid, illegal or incapable of being enforced, the Parties shall negotiate in good faith to modify this Agreement or such Order, as applicable, so as to effect the original intent of the Parties as closely as possible in order that the economic and legal substance hereof and thereof is effected as originally contemplated to the greatest extent possible.
+
+(e)
+
+Strict Construction; No Inference from Drafting
+
+. The language used herein will be deemed to be the language jointly chosen by the Parties to express their mutual intent, and no rule of strict construction will be applied against any Party. The Parties acknowledge that they have been represented by counsel and that this Agreement and each Order has, or will have, resulted from extended negotiations between the Parties. In the event an ambiguity or question of intent or interpretation arises, this Agreement and each Order shall be construed as if drafted jointly by the Parties and no presumption or burden of proof shall arise favoring or disfavoring any Party by virtue of the authorship of any of the provisions of this Agreement or any Order.
+
+(f)
+
+Entire Agreement
+
+. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter of this Agreement and supersedes and replaces all prior or contemporaneous discussions, negotiations, proposals, understandings and agreements, written or oral, with respect to this Agreement. Each Order (which, for the avoidance of doubt, incorporates by reference this Agreement) constitutes the entire agreement between the parties with respect to the subject matter of such Order and supersedes and replaces all prior or contemporaneous discussions, negotiations, proposals, understandings and agreements, written or oral, with respect to such Order. Each Party acknowledges and represents that, in entering into this Agreement and any Order, it has not relied on, and has no right or remedy in respect of, any statement, representation, assurance or warranty other than as expressly set out in this Agreement or such Order.
+
+(g)
+
+Amendments and Waiver
+
+. Neither this Agreement nor any Order
+
+may be modified, amended, supplemented or terminated (in whole or in part and whether by merger or otherwise) except by
+
+
+--- CONFIDENTIAL | PAGE 19 | EXECUTION VERSION ---
+
+written agreement specifically referring to this Agreement or such Order, as applicable, signed by both Parties.
+
+Unless otherwise specified in writing in connection with any amendment of a term of this Agreement, such amendment will only apply with respect to Orders entered into on or after the effective date of such amendment.
+
+No waiver of a breach or default hereunder shall be considered valid unless in writing and signed by the
+
+Party giving such waiver, and no such waiver shall be deemed a waiver of any subsequent
+
+breach or default of the same or similar nature. No failure to exercise, and no delay in exercising, any right, power or privilege under this Agreement or any Order shall operate as a waiver, nor shall any single or partial exercise of any right, power or privilege hereunder preclude the exercise of any other right, power or privilege. No extension of time for performance of any obligations or other acts hereunder or under any other agreement shall be deemed to be an extension of the time for performance of any other obligations or any other acts.
+
+(h)
+
+Assignment
+
+. None of the rights, interests or obligations of a Party under this Agreement or any Order may be assigned (whether by operation of law or otherwise) at any time by
+
+such Party without the express prior written consent of each other Party; provided however that IR may assign this Agreement to an Affiliate upon prior written notice to Greenidge. Any attempted assignment in violation of this
+
+Section 12(h)
+
+shall be null and void,
+
+ab initio
+
+.
+
+(i)
+
+Counterparts
+
+. This Agreement and each Order may be executed electronically and in two or more counterparts, each will be deemed an original, but all together will constitute one and
+
+9
+
+the same instrument. Delivery of an executed counterpart by electronic means is effective as the manual delivery of an original counterpart for all purposes.
+
+(j)
+
+Third Party Beneficiaries
+
+. Except as otherwise provided in
+
+Section 10
+
+(which is also for the benefit of the indemnified Persons identified therein), or expressly specified in any Order to be for the benefit of a third party, nothing in this Agreement or any Order is intended to or will confer upon any third party any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement or such Order.
+
+--- CONFIDENTIAL | PAGE 20 | EXECUTION VERSION ---
+
+
+(k)
+
+Governing Law
+
+. THIS AGREEMENT AND EACH ORDER ARE GOVERNED BY AND SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, EXCLUDING ANY CONFLICT OF LAWS RULE OR PRINCIPLE THAT MIGHT REFER THE GOVERNANCE OR THE CONSTRUCTION OF THIS AGREEMENT OR ANY ORDER TO THE LAW OF ANOTHER JURISDICTION.
+
+(l)
+
+Arbitration
+
+. Regarding any dispute arising hereunder, the Parties shall first attempt in good faith to resolve such dispute. If such attempt fails, then any dispute between the Parties relating to or in respect of this Agreement or any Order, their respective negotiation, execution, performance, subject matter, or any course of conduct or dealing or actions under or in respect of this Agreement or such Order, shall be submitted to, and resolved exclusively pursuant to arbitration in accordance with the commercial arbitration rules of the American Arbitration Association (“
+
+AAA
+
+”). Such arbitration shall take place in New York, New York, with one mutually acceptable arbitrator presiding at such arbitration proceeding. If after sixty (60) days the Parties cannot agree on an acceptable arbitrator, then an authorized AAA representative shall appoint three (3) arbitrators. Decisions pursuant to such arbitration shall be final, conclusive and binding on the parties. Upon the conclusion of arbitration, the Parties may apply to any court of competent jurisdiction, to enforce the decision pursuant to such arbitration. The arbitrators shall have the authority, but not the obligation, to award to the prevailing party its reasonable attorney’s fees and costs of investigation, and also to order the losing party to pay all of the costs of retaining the arbitrators.
+
+(m)
+
+Successors and Assigns
+
+. This Agreement and each Order shall be binding upon and shall inure to the benefit of the Parties and their respective permitted successors and assigns.
+
+(n)
+
+Rights and Remedies Cumulative
+
+. Except as expressly limited hereby or in any Order, the rights and remedies provided for herein are cumulative and not exclusive of any rights or remedies that a Party would otherwise have.
+
+[signature page follows]
+
+10
+
+The Parties have caused this Agreement to be executed and delivered by their duly authorized representatives as of the Effective Date.
+
+GREENIDGE
+
+:
+
+GREENIDGE GENERATION HOLDINGS INC.
+
+By:
+
+/s/ Jordan Kovler
+
+
+--- CONFIDENTIAL | PAGE 21 | EXECUTION VERSION ---
+
+Name: Jordan Kovler
+
+Title: Chief Executive Officer
+
+IR
+
+:
+
+INFINITE REALITY, INC.
+
+By:
+
+/s/ John Acunto
+
+Name: John Acunto
+
+Title: CEO
+
+[Signature Page to Master Services Agreement]
+
+SCHEDULE 1
+
+** CONFIDENTIAL **
+
+(Delivered separately.)
+
+EXHIBIT A
+
+FORM OF ORDER
+
+(See attached.)
+
+ORDER
+
+This Order, dated as of [________], by and between Greenidge Generation Holdings Inc., a Delaware corporation (“
+
+Greenidge
+
+”), and Infinite Reality, Inc., a Delaware corporation (“
+
+IR
+
+”), sets forth the terms of the Services described below and constitutes an “Order” as such term is defined in that certain Master Services Agreement, dated as of December 11, 2023, between Greenidge and IR (as amended, restated, supplemented, or otherwise modified as of the date hereof in accordance therewith, the “
+
+MSA
+
+--- CONFIDENTIAL | PAGE 22 | EXECUTION VERSION ---
+
+
+”).
+
+This Order incorporates by reference all the terms and conditions of the MSA as if set forth herein in full. Capitalized terms used but not defined in this Order shall have the meanings ascribed to them in the MSA.
+
+Third Party Provider(s):
+
+[________]
+
+Commencement Date:
+
+[________]
+
+End Date:
+
+[________]
+
+Minimum Performance Metrics for IR:
+
+[________]
+
+Minimum Performance Metrics for IR Clients (to be completed for each IR Client receiving Services under this Order), if applicable:
+
+1
+
+IR Client
+
+:
+
+Minimum Performance Metrics
+
+:
+
+Entity name:
+
+Mailing address:
+
+Primary contact name:
+
+Title:
+
+Email:
+
+Telephone number:
+
+
+--- CONFIDENTIAL | PAGE 23 | EXECUTION VERSION ---
+
+[________]
+
+Entity name:
+
+Mailing address:
+
+Primary contact name:
+
+Title:
+
+Email:
+
+Telephone number:
+
+[________]
+
+Invoice and Payment Terms
+
+1
+
+Furnishing of IR Client information by IR hereunder shall be subject to applicable data protection laws.
+
+Maximum Service Fees:
+
+$[___________]
+
+Deposit:
+
+$[___________], payable by IR within [___] Business Day(s) after execution of this Order.
+
+Invoice Deadline
+
+:
+
+[___] Business Days after the last calendar day of each Service Month applicable to this Order.
+
+Payment Deadline:
+
+[___] Business Days after delivery of each Invoice applicable to this Order.
+
+Any failure of IR to pay in full any amount when due and payable under this Order shall incur a late fee of [__] percent (___%) per month (or partial month), calculated on the principal amount starting in the next following month that such amount first came due.
+
+Competitive Market Rates (applicable to this Order):
+
+[____________]
+
+--- CONFIDENTIAL | PAGE 24 | EXECUTION VERSION ---
+
+
+[TBD: The following limitation of liability subject to review of the specified Third Party Provider(s) indemnification and liability provisions:]
+
+Limitation of Liability
+
+Notwithstanding anything in the MSA to the contrary, none of Greenidge, its Affiliates, or any of its or their respective Representatives (collectively, the “
+
+Greenidge Parties
+
+”) shall be liable to any Person (including, for the avoidance of doubt, IR, any IR Clients, or any of their respective Affiliates and Representatives) for any act or omission of the Third Party Provider(s) specified in this Order, or any of such Third Party Provider’s Affiliates or its or their respective Representatives (collectively, the “
+
+Third Party Provider Parties
+
+”), whether in the course of performing Services or any portion thereof or otherwise, and IR acknowledges and agrees that nothing under this Agreement or any Order creates any basis for any Greenidge Party to be liable or responsible for any act or omission of any Third Party Provider Party (including, for the avoidance of doubt, on any theory or doctrine of vicarious liabi1ity, respondeat superior, fiduciary responsibility, or agency or partnership law). This provision is expressly intended to benefit each Greenidge Party each of which may enforce this provision.
+
+[Remainder of page intentionally left blank]
+
+3
+
+The Parties have caused this Order to be executed and delivered by their duly authorized representatives as of the date first written above.
+
+GREENIDGE
+
+:
+
+GREENIDGE GENERATION HOLDINGS INC.
+
+By: _____________________________
+
+Name: ___________________________
+
+Title: ____________________________
+
+IR
+
+:
+
+INFINITE REALITY, INC.
+
+By: _____________________________
+
+Name: ___________________________
+
+Title: ___________________________
+
+
+--- CONFIDENTIAL | PAGE 25 | EXECUTION VERSION ---
+
+[Signature Page to Order]

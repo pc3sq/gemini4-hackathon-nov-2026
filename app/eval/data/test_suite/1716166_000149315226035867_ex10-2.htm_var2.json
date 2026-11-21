@@ -1,0 +1,13 @@
+{
+  "test_id": "1716166_000149315226035867_ex10-2.htm_var2",
+  "source_file": "1716166_000149315226035867_ex10-2.htm.txt",
+  "injected_traps": [
+    "RULE-01",
+    "RULE-02"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-01]: Redefines 'Fees' in Definitions to exclude implementation & support fees, shrinking the 12-month cap.",
+    "INJECTED [RULE-02]: Indemnity looks uncapped, but a buried clause in Limitation of Liability caps all indemnity obligations."
+  ]
+}

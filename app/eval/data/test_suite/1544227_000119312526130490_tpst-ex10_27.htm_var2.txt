@@ -1,0 +1,661 @@
+EX-10.27
+
+6
+
+tpst-ex10_27.htm
+
+EX-10.27
+
+EX-10.27
+
+Exhibit 10.27
+
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY
+
+[***]
+
+, HAS BEEN OMITTED BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) IS THE TYPE THAT TEMPEST THERAPEUTICS, INC. TREATS AS PRIVATE AND CONFIDENTIAL
+
+AMENDED AND RESTATED MASTER SERVICES AGREEMENT
+
+THIS AMENDED AND RESTATED MASTER SERVICE AGREEMENT (this “
+
+Agreement
+
+”) is entered into as of this 19
+
+th
+
+day of November, 2025 (the “
+
+Execution Date
+
+”) and completely supersedes the Master Services Agreement dated as of 6
+
+th
+
+day of August 2025 (the “
+
+Effective Date
+
+”), by and between FACTOR BIOSCIENCE INC., a corporation organized and existing under the laws of the State of Delaware (“
+
+Factor
+
+”), and ERIGEN LLC, a limited liability company organized and existing under the laws of the State of Delaware (“
+
+--- CONFIDENTIAL | PAGE 2 | EXECUTION VERSION ---
+
+
+Erigen
+
+”). Factor and Erigen may each be referred to in this Agreement individually as a “
+
+Party
+
+” and collectively as the “Parties.”
+
+WHEREAS, Erigen and Factor’s subsidiary, Factor Bioscience Limited, a company organized and existing under the laws of Ireland, are parties to that certain Amended and Restated License and Collaboration Agreement, dated as of the Execution Date and effective as of August 6, 2025 (hereinafter, the “
+
+License
+
+”), pursuant to which Factor Bioscience Limited licensed certain Licensed Technology to Erigen in the Field (as such terms are defined in the License); and
+
+WHEREAS, in support of Erigen’s obligations set forth in the License to develop Licensed Products (as such term is defined in the License), Erigen desires to engage Factor to perform certain services; and WHEREAS, Factor agrees to perform such services in accordance with this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained in this Agreement, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+Section 1.
+
+Services
+
+.
+
+1.1
+
+Services
+
+. Factor shall perform the services requested by Erigen on a fee-for-service basis and provide Erigen access to Factor’s facilities, all as mutually agreed upon by the Parties and more particularly set forth in one or more written work orders (each, a “
+
+Work Order
+
+”) entered into by the Parties hereunder (the “
+
+Services
+
+”). As soon as is practicable after the Effective Date, Factor and Erigen shall negotiate in good faith and enter into one or more Work Orders pursuant to which Factor shall use its laboratory facilities and personnel to perform agreed upon research and development services for Erigen. Factor may contract with third parties to conduct any part or all of the Services, provided that Factor obtains from such third parties written obligations at least as restrictive as those set forth in Section 5.
+
+1.2
+
+Work Orders
+
+. Each Work Order shall be substantially in the form attached hereto as
+
+
+--- CONFIDENTIAL | PAGE 3 | EXECUTION VERSION ---
+
+Exhibit A
+
+1.14 "Applicable Fees" means solely the recurring base seat license charges actually received by Vendor in the three (3) months immediately preceding the event giving rise to liability, expressly excluding implementation, onboarding, support, and usage overage charges.
+
+and shall set forth specific activities to be performed, specific Deliverables (as defined herein), headcount on an FTE basis, relevant facilities, and a payment schedule, on a fee-for-service basis, associated with the performance of such activities. The Parties will attach sequentially numbered Work Orders to this Agreement, and each such Work Order shall be a complete statement of the relevant project terms and shall supplement the terms and conditions of this Agreement solely for the purposes of such Work Order. The terms and conditions of this Agreement shall be deemed incorporated by reference in each such Work Order, except that in the event of any contrary or inconsistent terms or conditions appearing in or referred to in any such Work Order, the terms of the Work Order shall control with respect to the applicable Work Order to the extent such Work Order specifically identifies the applicable terms of this Agreement it is intending to supersede. The Parties acknowledge that purchase orders or other similar related documents
+
+1
+
+may be issued or executed by Erigen in connection with the Services, but this Agreement and any applicable Work Order shall take precedence over any additional, contrary or inconsistent terms and conditions appearing or referred to in any such purchase orders or other similar related documents.
+
+1.3
+
+Additional Services and/or Deliverables
+
+. The Parties acknowledge and agree that in the event that Erigen desires Factor to provide any additional Services or Deliverables that are not expressly identified in a valid, unexpired Work Order, including, without limitation, any research or development services, creation of any Deliverables or creation of any Intellectual Property (as defined in the License), it shall be subject to the Parties first agreeing to mutually acceptable additional terms to be set forth in a new Work Order or an amendment to this Agreement, including, without limitation, representations and warranties, indemnification, ownership and/or licensing of Intellectual Property related thereto, which the Parties shall determine through reasonable negotiations conducted in good faith.
+
+1.4
+
+Non-Exclusivity and Confidentiality
+
+. It is understood and agreed by and between Factor and Erigen that Factor maintains the right to perform similar services on behalf of itself or third parties during the term of this Agreement, so long as the confidentiality of information proprietary to Erigen is at all times protected by Factor in accordance with Section 5.
+
+1.5
+
+Factor Workplace Rules
+
+. In the event that Factor makes its premises available to Erigen or its personnel in connection with the Services performed hereunder, Erigen shall, and shall cause its personnel to, comply with and to perform its obligations in accordance with Factor’s applicable instructions, rules, regulations and policies governing conduct in the workplace, as may be updated by Factor from time to time (the “
+
+Workplace Rules
+
+”). Factor may [***] remove any Erigen personnel from Factor’s premises or suspend their access to such premises for noncompliance with the Workplace Rules. Factor will promptly notify Erigen after the removal or suspension of such personnel, as reasonably appropriate under the circumstances. The Parties will mutually determine in good faith how to resolve the non-compliance in the time frame needed by the Parties to avoid any material interruption to the Services. Erigen agrees that [***].
+
+Section 2.
+
+Performance of Services; Compliance
+
+.
+
+2.1
+
+General Performance
+
+. Factor shall perform the Services in material compliance with all applicable laws and regulations, including, without limitation, laws and regulations relating to health, safety and the environment, fair labor practices and unlawful discrimination. In the event that any noncompliance with applicable laws or regulations occurs, Factor shall take such actions as necessary to eliminate such noncompliance to the extent and as soon as practicable.
+
+2.2
+
+--- CONFIDENTIAL | PAGE 4 | EXECUTION VERSION ---
+
+
+Animal Welfare
+
+. With respect to Services involving the use of animals: (a) all such Services will be conducted under Factor’s supervision and control (whether directly by Factor or by one or more third parties hired by Factor pursuant to Section 1.1); (b) all such animals will be cared for, used, and disposed of in conformity with the applicable legal and ethical standards of animal testing; (c) the relevant environment, housing, management, veterinary care, and physical plant used in connection with such animals in the Services are appropriate for the nature of the Services; (d) in no circumstances will any such animals be used as food for humans or animals; and (e) if specific instructions for animal use, care, handling, or disposal are mutually agreed upon by the Parties in the applicable Work Order, Factor will comply with such instructions in connection with the applicable Services.
+
+2.3
+
+FDA Debarment
+
+. Each Party represents and warrants that neither it nor any of its employees or consultants performing hereunder have been debarred under Section 306(a) or (b) of the U.S. Federal Food, Drug and Cosmetic Act. If at any time after the Effective Date a Party becomes aware that it or any of its
+
+2
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+employees or consultants have been debarred or is in the process of being debarred, such Party shall promptly notify the other Party thereof in writing and, in any event, within [***].
+
+Section 3.
+
+Term
+
+.
+
+3.1
+
+Term
+
+. This Agreement shall be effective as of the Effective Date and shall continue in effect until terminated by either Party in accordance with Section 7. Notwithstanding the foregoing, should any Work Order(s) entered into during the term of this Agreement require Services to be performed beyond the termination date of this Agreement, then the terms of this Agreement shall remain in effect with respect to such Work Order(s) until the expiration or termination of that Work Order(s).
+
+Section 4.
+
+Payment
+
+.
+
+4.1
+
+Payment Terms
+
+. In consideration of the Services performed hereunder, Erigen will make payments to Factor in accordance with the applicable Work Order. Unless otherwise specified in any Work Order, Erigen shall make all such payments within [***]. If a portion of any invoice submitted by Factor hereunder is disputed in good faith by Erigen, then Erigen shall provide Factor with prompt notice thereof, pay the undisputed amounts as set forth in the immediately preceding sentence, and the Parties shall use their good faith efforts to reconcile any disputed amount within [***], following which Erigen shall promptly remit such reconciled amount, if any, to Factor. Late payments are subject to an interest charge of [***]. In addition to all other remedies available under this Agreement or at law (which Factor does not waive by the exercise of any rights hereunder), Factor shall be entitled to [***].
+
+4.2
+
+Taxes
+
+
+--- CONFIDENTIAL | PAGE 5 | EXECUTION VERSION ---
+
+. It is expressly understood and agreed that Erigen will pay any and all applicable taxes levied or based upon the Services performed under each Work Order (other than Factor’s income taxes and employment related taxes applicable to Factor employees). Any such taxes will appear as a separate item on Factor’s invoices.
+
+Section 5.
+
+Confidentiality
+
+.
+
+5.1
+
+General
+
+. As used herein, the term “
+
+Confidential Information
+
+” means all information furnished by one Party (the “
+
+Disclosing Party
+
+”) to the other Party (the “
+
+Receiving Party
+
+”) that is confidential or proprietary to the Disclosing Party (whether or not reduced to writing or other tangible medium of expression, and whether or not patented, patentable, capable of trade secret protection or protected as an unpublished or published work under the United States Copyright Act of 1976, as amended), including without limitation, (a) information relating to the intellectual property and business practices of the Disclosing Party; (b) information observed or otherwise made available to Erigen or its personnel while on Factor’s premises; and (c) any third party confidential or proprietary information in the possession of the Disclosing Party that is provided to the Receiving Party. Each Party, in its capacity as a Receiving Party, agrees to treat as the confidential and exclusive property of the Disclosing Party all Confidential Information that is disclosed or otherwise made available by the Disclosing Party in connection with this Agreement or the Parties’ business relationship. The Receiving Party agrees to use any Confidential Information of the other Party solely for purposes of its performance under this Agreement unless otherwise mutually agreed in writing. The Receiving Party shall maintain at least the same degree of care and diligence in the protection of the Confidential Information as it uses with regard to its own confidential or proprietary information, which in any event shall be no less than a reasonable standard of care and diligence for the industry.
+
+3
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+5.2
+
+Non-Disclosure
+
+. The Receiving Party agrees not to disclose any Confidential Information of the Disclosing Party to any third party for any purpose without obtaining the prior written consent of the Disclosing Party, except to its employees and personnel who have a need to know in order to perform its obligations under this Agreement; provided that such employees and personnel are obligated in writing to maintain the confidential nature of such Confidential Information on terms at least as restrictive as those set forth herein, and the Receiving Party will be responsible for any damages resulting from any breach of this Agreement by its employees and personnel.
+
+5.3
+
+Exclusions
+
+. Confidential Information does not include information that the Receiving Party is able to demonstrate (a) was rightfully in its possession prior to receipt from the Disclosing Party, as evidenced by the Receiving Party’s written records, (b) is now, or hereafter becomes, part of the public domain through no act or failure to act on the part of the Receiving Party or its agents or collaborators, (c) becomes known to the Receiving Party at any time through disclosure by a third party having no known obligation of confidentiality with respect to such information, or (d) was independently developed by or on behalf of the Receiving Party without the aid, application, use or benefit of the Disclosing Party’s Confidential Information, as evidenced by the Receiving Party’s written records. In addition, a Receiving Party may disclose such Confidential Information to the limited extent required to do so by applicable law or a proper legal, governmental or other competent authority, or by the rules of any securities exchange on which any security issued by either Party is traded. Except where impracticable, such Receiving Party shall give the Disclosing Party reasonable advance notice of such disclosure requirement and shall afford the Disclosing Party a reasonable opportunity to oppose, limit or secure confidential treatment for such required disclosure, or, where it is impracticable to give an advance notice, such Receiving Party shall give the Disclosing Party reasonable notice promptly after such required disclosure. In the event of any such required disclosure, the Receiving Party shall disclose only that portion of the Confidential Information legally required to be disclosed.
+
+5.4
+
+Return of Confidential Information
+
+--- CONFIDENTIAL | PAGE 6 | EXECUTION VERSION ---
+
+
+. Each Party agrees that, upon the earlier to occur of (a) the other Party’s written request, or (b) termination of this Agreement, the Receiving Party shall (i) return to the Disclosing Party any or all parts of the Confidential Information of such party provided to the Receiving Party in documentary or other tangible form, including all copies and other tangible embodiments thereof, and (ii) destroy any or all Confidential Information in the Receiving Party’s possession and stored in then­ accessible electronic or other media, in accordance with the Receiving Party’s own policies and timing for the destruction of its own Confidential Information.
+
+5.5
+
+Term of Confidentiality Obligations
+
+. The provisions of this Section 5 shall remain in effect for [***] following the termination of this Agreement, except that with respect to any Confidential Information constituting a trade secret as defined under applicable law, the provisions of this Section 5 shall remain in effect for as long as such Confidential Information continues to constitute a trade secret.
+
+Section 6.
+
+Intellectual Property
+
+.
+
+6.1
+
+Deliverables
+
+. Unless otherwise specified in the applicable Work Order, all deliverables developed as a result of Factor’s performance of the Services or as set forth in one or more Work Orders (collectively, the “
+
+Deliverables
+
+”) are and shall be the sole property and Confidential Information of Erigen except to the extent that they qualify as Improvements (as such term is defined in the License). Factor, on behalf of itself and its Affiliates, shall and hereby does assign to Erigen all right, title, and interest in and to all such Deliverables. Notwithstanding the foregoing, Deliverables shall expressly exclude any discovery, advancement, development, or creation which is invented, developed, authored, created, or reduced to practice by Factor prior to the Effective Date or independently of the Services performed hereunder.
+
+4
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+6.2
+
+License
+
+. Solely to the extent necessary or reasonably useful to use, practice or otherwise exploit the Deliverables, Factor, on behalf of itself and its Affiliates, hereby grants to Erigen a non-exclusive, royalty-free, fully paid-up, transferrable, perpetual, irrevocable license, with the right to grant sublicenses, under any and all of Factor’s and its Affiliates’ patents, technology, information, know-how, copyrights, trade secrets, or other intellectual property or proprietary rights (but excluding the Licensed Technology (as such term is defined in the License) and Improvements) [***] and solely for the purpose of, using, practicing and otherwise exploiting the Deliverables.
+
+Section 7.
+
+Termination
+
+.
+
+7.1
+
+Termination of Agreement
+
+
+--- CONFIDENTIAL | PAGE 7 | EXECUTION VERSION ---
+
+. This Agreement may be terminated by either Party for any reason upon [***] prior written notice to the other Party, provided, however, that any Work Order issued hereunder that has not terminated or expired as of the date of the termination of this Agreement shall survive the termination of this Agreement, and the terms of this Agreement shall remain in full force an effect with respect to any such Work Order.
+
+7.2
+
+Termination of Work Order
+
+. Erigen may terminate any Work Order at any time with or without cause for its convenience, effective upon [***] notice to Factor. In addition, either Party may terminate any Work Order [***] written notice to the other Party if such other Party materially breaches this Agreement or the Work Order, as the case may be, and does not fully cure the breach to such Party’s satisfaction within [***]. Upon termination a Work Order, unless the applicable Work Order expressly provides otherwise, Erigen will pay Factor fees for all Services performed [***].
+
+7.3
+
+Survival
+
+. The provisions of Sections 5 (Confidentiality), 6 (Intellectual Property), 7.2 (Survival), 8 (Indemnification), 9 (Warranties; Disclaimer; Liability Limitation), 10 (Notices), and 11 (Miscellaneous) shall survive the termination of this Agreement.
+
+Section 8.
+
+Indemnification
+
+8.1
+
+Mutual Indemnification
+
+. Each Party (the “
+
+Indemnifying Party
+
+”) will indemnify, defend and hold harmless the other Party, its Affiliates and their respective directors, officers, employees, consultants, licensors and agents, and their respective successors, and assigns (collectively, the “
+
+Indemnified Party
+
+”), against all third party suits, actions, claims, proceedings, liabilities, demands, damages, losses, or expenses (including legal expenses, investigative expenses, and reasonable attorneys’ fees) resulting from, arising out of, or otherwise attributable to the Indemnifying Party’s breach of its express representations and warranties set forth herein, except to the extent resulting from, arising out of, or otherwise attributable to the Indemnified Party’s breach of any of its express representations, warranties or covenants set forth herein, or any act of gross negligence or intentional misconduct by the Indemnified Party. As used in this Agreement, “
+
+Affiliate
+
+” means any person or entity directly or indirectly controlling or having the power to control, or controlled by or being under common control with another person or entity. For this purpose, “control” means the direct or indirect possession of power to direct or cause the direction of the management or policies of such party, whether through ownership or stock or other securities, by contract or otherwise. Ownership of more than fifty percent (50%) of the beneficial interest of an entity shall be conclusive evidence that control exists.
+
+8.2
+
+The Indemnified Party will promptly give notice to the Indemnifying Party of any suits, actions, claims, proceedings, liabilities, demands, damages, losses, or expenses which might be covered by this Section and the Indemnifying Party will have the right to defend the same, including selection of counsel and control of the proceedings; provided that the Indemnifying Party will not, without the written consent
+
+5
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+of the Indemnified Party, settle or consent to the entry of any judgment with respect to any such third party claim (x) that does not release the Indemnified Party from all liability with respect to such third party claim, or (y) which may materially adversely affect the Indemnified Party’s or under which the Indemnified Party would incur any obligation or liability, other than one as to which the Indemnifying Party has an indemnity obligation hereunder. The Indemnified Party agrees to reasonably cooperate and aid such defense. The Indemnified Party at all times reserves the right to select and retain counsel of its own at its own expense to defend the Indemnified Party’s interests.
+
+--- CONFIDENTIAL | PAGE 8 | EXECUTION VERSION ---
+
+
+Section 9.
+
+Warranties; Disclaimers; Limitation of Liability
+
+.
+
+9.1
+
+Representations, Warranties and Covenants
+
+. Each Party hereto hereby represents, warrants and covenants to the other that (a) it is a corporation duly incorporated, validly existing and in good standing; (b) it has taken all necessary actions on its part to authorize the execution, delivery and performance of the obligations undertaken in this Agreement, and no other corporate or regulatory actions (e.g., obtaining permits, licenses or authorizations) are necessary with respect thereto; (c) it is not a party to any agreement or understanding, and there is no applicable law or regulation or third party rights, that would prohibit it from entering into and performing this Agreement or that would be violated through entering into this Agreement or any Work Order or the provision or use of the Services or Deliverables (provided that, [***]); and (d) when executed and delivered by it, this Agreement will constitute a legal, valid and binding obligation of it, enforceable against it in accordance with this Agreement’s terms. Factor further represents and warrants that the Services shall be performed in a professional manner by competent and properly trained personnel in accordance with Factor’s training standards and practices, which are reasonably consistent with standards that are generally accepted in the industry.
+
+9.2
+
+DISCLAIMER
+
+. EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, FACTOR IS PROVIDING THE SERVICES AND THE DELIVERABLES “AS IS,” AND MAKES NO REPRESENTATIONS, AND EXTENDS NO WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, OR NON­ INFRINGEMENT, AND FACTOR DOES NOT ASSUME ANY RESPONSIBILITY WHATSOEVER WITH RESPECT TO USE, SALE, OR OTHER DISPOSITION OF PRODUCTS OR SERVICES INCORPORATING OR MADE BY USE OF THE SERVICES OR THE DELIVERABLES.
+
+9.3
+
+LIMITATION OF LIABILITY
+
+. TO THE FULLEST EXTENT PERMITTED BY LAW, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY OR ANY OTHER PERSON FOR ANY INJURY TO OR LOSS OF GOODWILL, REPUTATION, BUSINESS PRODUCTION, REVENUES, PROFITS, ANTICIPATED PROFITS, CONTRACTS, OR OPPORTUNITIES (REGARDLESS OF HOW THESE ARE CLASSIFIED AS DAMAGES), OR FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, PUNITIVE, OR ENHANCED DAMAGES, WHETHER ARISING OUT OF BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, PRODUCT LIABILITY, OR OTHERWISE (INCLUDING THE ENTRY INTO, PERFORMANCE, OR BREACH OF THIS AGREEMENT), REGARDLESS OF WHETHER SUCH LOSS OR DAMAGE WAS FORESEEABLE AND THE PARTY AGAINST WHOM LIABILITY IS CLAIMED HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE, AND NOTWITHSTANDING THE FAILURE OF ANY AGREED REMEDY OF ITS ESSENTIAL PURPOSE. THE FOREGOING LIMITATIONS WILL NOT: (A) APPLY TO A PARTY’S BREACH OF [***], OR (B) LIMIT A PARTY’S INDEMNIFICATION OBLIGATIONS UNDER SECTION 8.
+
+Section 10.
+
+Notices
+
+.
+
+6
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+10.1
+
+Notices
+
+. Any notice required to be given pursuant to the provisions of this Agreement will be in writing and will be deemed to have been given at the time when actually received as a consequence of any effective method of delivery, including but not limited to hand delivery, transmission by telecopier, facsimile or electronic transmission, including PDF (portable document format), delivery by a professional courier service or delivery by first class, certified or registered mail (postage prepaid) addressed to the Party for whom intended at the address below, or at such changed address as the Party will have specified by written notice in accordance with this Section 10; provided, however, that any notice of change of address will be effective only upon actual receipt.
+
+If to Factor:
+
+Factor Bioscience Inc.
+
+
+--- CONFIDENTIAL | PAGE 9 | EXECUTION VERSION ---
+
+Attn: [***]
+
+1035 Cambridge Street, Suite 17B
+
+Cambridge, MA 02141
+
+[***]
+
+If to Erigen:
+
+Erigen LLC
+
+1035 Cambridge Street, Suite 17B
+
+Cambridge, MA 02141
+
+Attn: [***]
+
+[***]
+
+Section 11.
+
+Miscellaneous
+
+.
+
+11.1
+
+Entire Agreement; Amendments
+
+. This Agreement and any Work Orders issued hereunder, together with the License, represents the entire understanding of the parties with respect to the Services that are subject matter hereof and (with the exception of the License and the contemporaneous Amended and Restated Trademark Agreement by and between Erigen and Factor’s Affiliate FACTOR BIOSCIENCE LLC) shall merge and supersede all prior and contemporaneous agreements or understandings, oral or written, with respect thereto. This Agreement shall not be modified except by a written agreement signed by the Parties hereto specifying that it is a modification to the Agreement.
+
+11.2
+
+Independent Contractor
+
+. Any Services performed by Factor under this Agreement are to be performed by Factor in Factor’s capacity as an independent contractor. Neither Factor nor its employees, agents or representatives are employees of Erigen. Factor retains the sole right to hire, discipline, evaluate and terminate its own employees and to set their hours, wages and terms and conditions of employment in accordance with law and Factor’s obligations herein. All income, employment and other similar taxes required to be withheld and/or paid with respect to all Services provided hereunder will be timely paid by Factor directly to the appropriate governmental agency. The employees, representatives or agents of Factor are not entitled to and will not receive from Erigen in connection with the Services, any benefits normally provided by Erigen to its employees.
+
+11.3
+
+Waiver
+
+. The failure of a Party to insist upon strict adherence to any term of this Agreement on any occasion shall not be considered a waiver or deprive that Party of the right to insist upon strict adherence to that term or any other term of this Agreement. Any waiver must be in writing and signed by the Party making the waiver.
+
+11.4
+
+--- CONFIDENTIAL | PAGE 10 | EXECUTION VERSION ---
+
+
+Severability
+
+. The invalidity or unenforceability of any term or provision of this Agreement shall not affect the validity or enforceability of any other term or provision hereof.
+
+7
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+11.5
+
+Governing Law and Venue
+
+. This Agreement shall be construed under and governed by the laws of the Commonwealth of Massachusetts, without regard to the conflict of laws principles thereof. The Parties hereby submit to the exclusive jurisdiction of the federal and/or state courts sitting in [***].
+
+11.6
+
+Force Majeure
+
+. Failure of either Party to perform its obligations under this Agreement shall not subject such Party to any liability or place such Party in breach of any term or condition of this Agreement to the other Party to the extent that such failure is due to causes beyond the reasonable control of the affected Party including, but not limited to, fire, explosion, flood, drought, hurricane, war, terrorism, riot, civil unrest, sabotage, vandalism, embargo, epidemic, pandemic or other declared national, state or local health emergency, compliance with any order or regulation of any government entity acting with color of right, or any other cause beyond the reasonable control of such non-performing Party and not caused by the negligence, intentional conduct or misconduct of the non-performing Party (such event or cause referred to as “force majeure”). The Party unable to perform hereunder due to force majeure shall, as promptly as reasonably practicable, notify the other Party and shall use reasonable efforts to eliminate, cure or overcome the force majeure, keeping the other Party informed of its progress, and resume performance of its obligations as soon as reasonably practicable. If a condition constituting force majeure exists for more than [***], the Parties shall meet and discuss in good faith modifications to the Services, timetable for provision and completion of the Services and/or other affected aspects of the Agreement or Work Order.
+
+11.7
+
+Injunctive Relief
+
+. Each Party agrees that it would be impossible or inadequate to measure and calculate the other Party’s damages from any breach of the covenants set forth in Section 5 of this Agreement, and that a breach of such covenants could cause serious and irreparable injury to such other Party. Accordingly, each Party shall have available, in addition to any other right or remedy available to it, the right to seek an injunction from a court of competent jurisdiction restraining such a breach (or threatened breach) and to specific performance of any such covenant. Each Party further agrees that no bond or other security shall be required in seeking such equitable relief.
+
+11.8
+
+Assignment
+
+. This Agreement will be binding upon and will inure to the benefit of each Party and each Party’s respective transferees, successors and assigns, pursuant to the provisions set forth below. Neither Party may transfer or assign this Agreement to any entity other than an Affiliate without the prior written consent of the other Party, except as provided in this Section 11.8. In the event that a third party (the “
+
+Acquiring Party
+
+”) acquires all or substantially all of a Party’s business, capital stock or assets, or the portion of such Party’s assets pertaining to this Agreement, whether by sale, merger, change of control, operation of law or otherwise (an “
+
+Acquisition
+
+”), such Party may assign this Agreement and the Work Orders hereunder to the Acquiring Party without the prior written consent of the other Party, provided that the Acquiring Party agrees in writing to assume the assigning Party’s obligations under this Agreement and the Work Orders hereunder. In such event, the rights granted to the Party being acquired under this Agreement shall inure to the benefit of the Acquiring Party. For the avoidance of doubt, in the event of an Acquisition of Erigen by an Acquiring Party, the Acquiring Party will be responsible for all payments and other obligations set forth in this Agreement, including, but not limited to, all payments set forth herein, and any obligations that matured prior to the Acquisition date. Upon an Acquisition of Erigen by an Acquiring Party, payment thereof shall remain an ongoing obligation of the Acquiring Party until such amount is paid in full. Any attempted assignment in contravention of this Section 11.8 will be null and void.
+
+11.9
+
+Announcement
+
+
+--- CONFIDENTIAL | PAGE 11 | EXECUTION VERSION ---
+
+. As soon as reasonably practicable after entering into this Agreement, the Parties may issue a joint press release announcing their entering into this Agreement, provided that the content of such press release shall be determined by mutual agreement of the Parties acting in good faith. As applicable, each Party shall also be entitled to disclose this Agreement in its filings with the Securities and Exchange Commission and as otherwise required in order to comply with applicable legal requirements and the rules or regulations of any securities exchange on which such Party’s securities are listed.
+
+8
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+11.10
+
+Counterparts
+
+. This Agreement may be executed by original or facsimile signature in any number of counterparts, each of which need not contain the signature of more than one Party but all such counterparts taken together will constitute one and the same agreement.
+
+Remainder of page intentionally left blank; signature page follows.
+
+9
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+IN WITNESS WHEREOF, the Parties hereto have duly executed this Amended and Restated Master Services Agreement as of the Execution Date.
+
+FACTOR BIOSCIENCE INC.
+
+By:
+
+/s/: Christopher Rohde
+
+Christopher Rohde, Ph.D.
+
+Chief Technology Officer
+
+ERIGEN LLC
+
+By:
+
+/s/: Matt Angel
+
+Matthew Angel, Ph.D.
+
+Manager
+
+10
+
+Exhibit A
+
+Form Work Order
+
+--- CONFIDENTIAL | PAGE 12 | EXECUTION VERSION ---
+
+
+This Work Order No. [ ] is incorporated into the Amended and Restated Master Services Agreement dated September [•], 2025 by and between Factor and Erigen (for the purposes of this Work Order, the “
+
+Agreement
+
+”). This Work Order describes Services and Deliverables to be performed and provided by Factor pursuant to the Agreement. In the event of any conflict between the Agreement and any provision of this Work Order, the Agreement will control unless the Parties’ intent to alter the terms of the Agreement is expressly set forth in such provision, and such alteration shall only apply to this Work Order and shall not be construed as an amendment to the terms of the Agreement. All capitalized terms used and not expressly defined in this Work Order will have the meanings given to them in the Agreement.
+
+Approach & Activities
+
+[DESCRIBE METHODS/PROCESSES/TASK SUMMARY of the Services]
+
+Deliverables
+
+[DESCRIBE EXACTLY WHAT IT IS THAT ERIGEN IS RECEIVING AS A RESULT OF THE SERVICES]
+
+[
+
+optional
+
+]
+
+Obligations of Erigen
+
+[DESCRIBE EXACTLY WHAT, IF ANYTHING, ERIGEN MUST PROVIDE SO THAT FACTOR CAN SUCCESSFULLY PROVIDE SERVICES]
+
+[
+
+optional
+
+]
+
+Specifications
+
+[DESCRIBE ANY TECHNICAL SPECIFICATIONS THAT THE DELIVERABLES MUST MEET]
+
+Points of Contact
+
+If to Erigen
+
+Erigen LLC
+
+1035 Cambridge Street, Suite 17B
+
+Cambridge, MA 02141
+
+
+--- CONFIDENTIAL | PAGE 13 | EXECUTION VERSION ---
+
+Attn: [***]
+
+[***]
+
+If to Factor
+
+Factor Bioscience Inc.
+
+Attn: [***]
+
+1035 Cambridge Street, Suite 17B
+
+Cambridge, MA 02141
+
+[***]
+
+Budget
+
+[IDENTIFY THE MAXIMUM AMOUNT THAT ERIGEN IS AGREEING TO PAY FOR THE SERVICES, EITHER IN THEIR ENTIREY OR FOR PARTICULAR SERVICES]
+
+Payment Schedule
+
+Factor will invoice Erigen only for the Services actually rendered and the expenses actually incurred. In full consideration for Factor’s timely and satisfactory performance of the Services and provision of the Deliverables, Factor will be compensated as follows:
+
+[
+
+PICK ONE OF THE THREE LISTED BELOW
+
+]
+
+Time & Materials Basis
+
+: as invoiced by Factor at the rates set forth below; provided, however, that Factor will obtain Erigen’s prior written approval before providing more than [_____ dollars ($__.__)] worth of Services.
+
+Rates:
+
+Fixed Fee Basis
+
+: Total fee of [_____ dollars ($__.__)] payable in [_____ (__)] installments of [_____ dollars ($__.__)] each.
+
+Milestone Fee Basis
+
+: Fees payable in accordance with the table immediately below and the development schedule of this Work Order.
+
+Milestone
+
+--- CONFIDENTIAL | PAGE 14 | EXECUTION VERSION ---
+
+
+Fee (US$)
+
+Term
+
+The term of this Work Order will begin on __________ and shall terminate on ____________.
+
+Remainder of page intentionally left blank; signature page follows.
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+IN WITNESS WHEREOF, the Parties hereto have duly executed this Work Order No. [ ] as of the date first written above.
+
+FACTOR BIOSCIENCE INC.
+
+By:
+
+Christopher Rohde, Ph.D.
+
+Chief Technology Officer
+
+ERIGEN LLC
+
+By:
+
+Matthew Angel, Ph.D.
+
+Manager
+
+DOCVARIABLE ndGeneratedStamp \* MERGEFORMAT 4928-7326-4540, v. 1
+
+--- SCHEDULE 1: INITIAL ORDER FORM ---
+Term & Renewal: Unless Customer delivers written notice of non-renewal via certified mail at least ninety (90) days prior to the expiration of the then-current Subscription Term, this Order Form shall automatically renew for successive twenty-four (24) month periods at Vendor's then-current list pricing.
+
+
+--- EXHIBIT B: DATA PROCESSING & SECURITY ADDENDUM ---
+4.2 Security Incident Notification. Upon becoming aware of a confirmed Personal Data Breach, Vendor shall notify Customer within seventy-two (72) hours following completion of Vendor's internal forensic verification and impact scoping.

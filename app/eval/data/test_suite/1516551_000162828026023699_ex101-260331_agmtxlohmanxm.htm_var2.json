@@ -1,0 +1,11 @@
+{
+  "test_id": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm_var2",
+  "source_file": "1516551_000162828026023699_ex101-260331_agmtxlohmanxm.htm.txt",
+  "injected_traps": [
+    "RULE-05"
+  ],
+  "cured_false_positives": [],
+  "notes": [
+    "INJECTED [RULE-05]: Appends an Order Form schedule imposing a 90-day non-renewal notice window."
+  ]
+}
