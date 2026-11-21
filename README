@@ -1,0 +1,6 @@
+
+To run app:
+
+Shell into the container with `make shell`.
+
+Serve the app with `uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload`
